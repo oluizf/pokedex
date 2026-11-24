@@ -1,43 +1,6 @@
-Pokedex number 1
-Name Bulbasaur
-Type grass poison
-Weaknesses flying poison bug fire ice
-Description A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON. 
-
 Pokedex number 2
 Name Ivysaur
 Type grass poison
 Weaknesses flying poison bug fire ice
 Description When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs. 
-
-Pokedex number 3
-Name Venusaur
-Type grass poison
-Weaknesses flying poison bug fire ice
-Description The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight. 
-
-Pokedex number 4
-Name Charmander
-Type fire
-Weaknesses ground rock water
-Description Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail. 
-
-Pokedex number 5
-Name Charmeleon
-Type fire
-Weaknesses ground rock water
-Description When it swings its burning tail, it elevates the temperature to unbearably high levels. 
-
-Pokedex number 6
-Name Charizard
-Type fire flying
-Weaknesses ground rock water
-Description Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally. 
-
-Pokedex number 7
-Name Squirtle
-Type water
-Weaknesses grass electric
-Description After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth. 
-
 
