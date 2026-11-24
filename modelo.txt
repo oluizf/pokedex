@@ -1,0 +1,7 @@
+Ivysaur
+Stats HP Attack Defense Special Attack Special Defense Speed
+The more sunlight Ivysaur bathes in, the more strength wells up within it, allowing the bud on its back to grow larger.
+Height Weight Gender Category Seed Abilities Overgrow
+Type Grass Poison
+Weaknesses Fire Flying Ice Psychic
+Evolutions Bulbasaur Ivysaur Venusaur
