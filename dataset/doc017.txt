@@ -1,31 +1,391 @@
---- doc017.txt ---
+Pokedex number 1
+Name Bulbasaur
+Type grass poison
+Weaknesses flying poison bug fire ice
+Description A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON. 
 
-Número na Pokédex: #62
-Nome: Poliwrath
-Tipagem: water, fighting
-Fraquezas: grass, electric
-Descrição: An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers. 
-----------------------------------------
+Pokedex number 2
+Name Ivysaur
+Type grass poison
+Weaknesses flying poison bug fire ice
+Description When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs. 
 
-Número na Pokédex: #63
-Nome: Abra
-Tipagem: psychic
-Fraquezas: bug, ghost, dark
-Descrição: Using its ability to read minds, it will identify impending danger and TELEPORT to safety. 
-----------------------------------------
+Pokedex number 3
+Name Venusaur
+Type grass poison
+Weaknesses flying poison bug fire ice
+Description The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight. 
 
-Número na Pokédex: #64
-Nome: Kadabra
-Tipagem: psychic
-Fraquezas: bug, ghost, dark
-Descrição: It emits special alpha waves from its body that induce headaches just by being close by. 
-----------------------------------------
+Pokedex number 4
+Name Charmander
+Type fire
+Weaknesses ground rock water
+Description Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail. 
 
-Número na Pokédex: #65
-Nome: Alakazam
-Tipagem: psychic
-Fraquezas: bug, ghost, dark
-Descrição: Its brain can out­ perform a super­ computer. Its intelligence quotient is said to be 5,000. 
-----------------------------------------
+Pokedex number 5
+Name Charmeleon
+Type fire
+Weaknesses ground rock water
+Description When it swings its burning tail, it elevates the temperature to unbearably high levels. 
+
+Pokedex number 6
+Name Charizard
+Type fire flying
+Weaknesses ground rock water
+Description Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally. 
+
+Pokedex number 7
+Name Squirtle
+Type water
+Weaknesses grass electric
+Description After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth. 
+
+Pokedex number 8
+Name Wartortle
+Type water
+Weaknesses grass electric
+Description Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance. 
+
+Pokedex number 9
+Name Blastoise
+Type water
+Weaknesses grass electric
+Description A brutal POKéMON with pressurized water jets on its shell. They are used for high speed tackles. 
+
+Pokedex number 10
+Name Caterpie
+Type bug
+Weaknesses flying rock fire
+Description Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls. 
+
+Pokedex number 11
+Name Metapod
+Type bug
+Weaknesses flying rock fire
+Description This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body. 
+
+Pokedex number 12
+Name Butterfree
+Type bug flying
+Weaknesses flying rock fire
+Description In battle, it flaps its wings at high speed to release highly toxic dust into the air. 
+
+Pokedex number 13
+Name Weedle
+Type bug poison
+Weaknesses flying rock fire
+Description Often found in forests, eating leaves. It has a sharp venomous stinger on its head. 
+
+Pokedex number 14
+Name Kakuna
+Type bug poison
+Weaknesses flying rock fire
+Description Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators. 
+
+Pokedex number 15
+Name Beedrill
+Type bug poison
+Weaknesses flying rock fire
+Description Flies at high speed and attacks using its large venomous stingers on its forelegs and tail. 
+
+Pokedex number 16
+Name Pidgey
+Type normal flying
+Weaknesses fighting
+Description A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand. 
+
+Pokedex number 17
+Name Pidgeotto
+Type normal flying
+Weaknesses fighting
+Description Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder. 
+
+Pokedex number 18
+Name Pidgeot
+Type normal flying
+Weaknesses fighting
+Description When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP. 
+
+Pokedex number 19
+Name Rattata
+Type normal
+Weaknesses fighting
+Description Bites anything when it attacks. Small and very quick, it is a common sight in many places. 
+
+Pokedex number 20
+Name Raticate
+Type normal
+Weaknesses fighting
+Description It uses its whis­ kers to maintain its balance. It apparently slows down if they are cut off. 
+
+Pokedex number 21
+Name Spearow
+Type normal flying
+Weaknesses fighting
+Description Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne. 
+
+Pokedex number 22
+Name Fearow
+Type normal flying
+Weaknesses fighting
+Description With its huge and magnificent wings, it can keep aloft without ever having to land for rest. 
+
+Pokedex number 23
+Name Ekans
+Type poison
+Weaknesses ground psychic
+Description Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole. 
+
+Pokedex number 24
+Name Arbok
+Type poison
+Weaknesses ground psychic
+Description It is rumored that the ferocious warning markings on its belly differ from area to area. 
+
+Pokedex number 25
+Name Pikachu
+Type electric
+Weaknesses ground
+Description When several of these POKéMON gather, their electricity could build and cause lightning storms. 
+
+Pokedex number 26
+Name Raichu
+Type electric
+Weaknesses ground
+Description Its long tail serves as a ground to protect itself from its own high voltage power. 
+
+Pokedex number 27
+Name Sandshrew
+Type ground
+Weaknesses water grass ice
+Description Burrows deep underground in arid locations far from water. It only emerges to hunt for food. 
+
+Pokedex number 28
+Name Sandslash
+Type ground
+Weaknesses water grass ice
+Description Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape. 
+
+Pokedex number 29
+Name Nidoran-f
+Type poison
+Weaknesses ground psychic
+Description Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns. 
+
+Pokedex number 30
+Name Nidorina
+Type poison
+Weaknesses ground psychic
+Description The female's horn develops slowly. Prefers physical attacks such as clawing and biting. 
+
+Pokedex number 31
+Name Nidoqueen
+Type poison ground
+Weaknesses ground psychic
+Description Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves. 
+
+Pokedex number 32
+Name Nidoran-m
+Type poison
+Weaknesses ground psychic
+Description Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom. 
+
+Pokedex number 33
+Name Nidorino
+Type poison
+Weaknesses ground psychic
+Description An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom. 
+
+Pokedex number 34
+Name Nidoking
+Type poison ground
+Weaknesses ground psychic
+Description It uses its powerful tail in battle to smash, constrict, then break the prey's bones. 
+
+Pokedex number 35
+Name Clefairy
+Type fairy
+Weaknesses poison steel
+Description Its magical and cute appeal has many admirers. It is rare and found only in certain areas. 
+
+Pokedex number 36
+Name Clefable
+Type fairy
+Weaknesses poison steel
+Description A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people. 
+
+Pokedex number 37
+Name Vulpix
+Type fire
+Weaknesses ground rock water
+Description At the time of birth, it has just one tail. The tail splits from its tip as it grows older. 
+
+Pokedex number 38
+Name Ninetales
+Type fire
+Weaknesses ground rock water
+Description Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse. 
+
+Pokedex number 39
+Name Jigglypuff
+Type normal fairy
+Weaknesses fighting
+Description When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep. 
+
+Pokedex number 40
+Name Wigglytuff
+Type normal fairy
+Weaknesses fighting
+Description The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size. 
+
+Pokedex number 41
+Name Zubat
+Type poison flying
+Weaknesses ground psychic
+Description Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets. 
+
+Pokedex number 42
+Name Golbat
+Type poison flying
+Weaknesses ground psychic
+Description Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly. 
+
+Pokedex number 43
+Name Oddish
+Type grass poison
+Weaknesses flying poison bug fire ice
+Description During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds. 
+
+Pokedex number 44
+Name Gloom
+Type grass poison
+Weaknesses flying poison bug fire ice
+Description The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey. 
+
+Pokedex number 45
+Name Vileplume
+Type grass poison
+Weaknesses flying poison bug fire ice
+Description The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up. 
+
+Pokedex number 46
+Name Paras
+Type bug grass
+Weaknesses flying rock fire
+Description Burrows to suck tree roots. The mushrooms on its back grow by draw­ ing nutrients from the bug host. 
+
+Pokedex number 47
+Name Parasect
+Type bug grass
+Weaknesses flying rock fire
+Description A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places. 
+
+Pokedex number 48
+Name Venonat
+Type bug poison
+Weaknesses flying rock fire
+Description Lives in the shadows of tall trees where it eats insects. It is attracted by light at night. 
+
+Pokedex number 49
+Name Venomoth
+Type bug poison
+Weaknesses flying rock fire
+Description The dust-like scales covering its wings are color coded to indicate the kinds of poison it has. 
+
+Pokedex number 50
+Name Diglett
+Type ground
+Weaknesses water grass ice
+Description Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground. 
+
+Pokedex number 51
+Name Dugtrio
+Type ground
+Weaknesses water grass ice
+Description A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground. 
+
+Pokedex number 52
+Name Meowth
+Type normal
+Weaknesses fighting
+Description Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change. 
+
+Pokedex number 53
+Name Persian
+Type normal
+Weaknesses fighting
+Description Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness. 
+
+Pokedex number 54
+Name Psyduck
+Type water
+Weaknesses grass electric
+Description While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers. 
+
+Pokedex number 55
+Name Golduck
+Type water
+Weaknesses grass electric
+Description Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa. 
+
+Pokedex number 56
+Name Mankey
+Type fighting
+Weaknesses flying psychic fairy
+Description Extremely quick to anger. It could be docile one moment then thrashing away the next instant. 
+
+Pokedex number 57
+Name Primeape
+Type fighting
+Weaknesses flying psychic fairy
+Description Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught. 
+
+Pokedex number 58
+Name Growlithe
+Type fire
+Weaknesses ground rock water
+Description Very protective of its territory. It will bark and bite to repel intruders from its space. 
+
+Pokedex number 59
+Name Arcanine
+Type fire
+Weaknesses ground rock water
+Description A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings. 
+
+Pokedex number 60
+Name Poliwag
+Type water
+Weaknesses grass electric
+Description Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand. 
+
+Pokedex number 61
+Name Poliwhirl
+Type water
+Weaknesses grass electric
+Description Capable of living in or out of water. When out of water, it sweats to keep its body slimy. 
+
+Pokedex number 62
+Name Poliwrath
+Type water fighting
+Weaknesses grass electric
+Description An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers. 
+
+Pokedex number 63
+Name Abra
+Type psychic
+Weaknesses bug ghost dark
+Description Using its ability to read minds, it will identify impending danger and TELEPORT to safety. 
+
+Pokedex number 64
+Name Kadabra
+Type psychic
+Weaknesses bug ghost dark
+Description It emits special alpha waves from its body that induce headaches just by being close by. 
+
+Pokedex number 65
+Name Alakazam
+Type psychic
+Weaknesses bug ghost dark
+Description Its brain can out­ perform a super­ computer. Its intelligence quotient is said to be 5,000. 
 
 
