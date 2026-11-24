@@ -1,0 +1,31 @@
+--- doc005.txt ---
+
+Número na Pokédex: #16
+Nome: Pidgey
+Tipagem: normal, flying
+Fraquezas: fighting
+Descrição: A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand. 
+----------------------------------------
+
+Número na Pokédex: #17
+Nome: Pidgeotto
+Tipagem: normal, flying
+Fraquezas: fighting
+Descrição: Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder. 
+----------------------------------------
+
+Número na Pokédex: #18
+Nome: Pidgeot
+Tipagem: normal, flying
+Fraquezas: fighting
+Descrição: When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP. 
+----------------------------------------
+
+Número na Pokédex: #19
+Nome: Rattata
+Tipagem: normal
+Fraquezas: fighting
+Descrição: Bites anything when it attacks. Small and very quick, it is a common sight in many places. 
+----------------------------------------
+
+

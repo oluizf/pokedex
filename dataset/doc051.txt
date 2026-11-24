@@ -1,0 +1,31 @@
+--- doc051.txt ---
+
+Número na Pokédex: #193
+Nome: Yanma
+Tipagem: bug, flying
+Fraquezas: flying, rock, fire
+Descrição: If it flaps its wings really fast, it can generate shock waves that will shatter win­ dows in the area. 
+----------------------------------------
+
+Número na Pokédex: #194
+Nome: Wooper
+Tipagem: water, ground
+Fraquezas: grass, electric
+Descrição: This POKéMON lives in cold water. It will leave the water to search for food when it gets cold outside. 
+----------------------------------------
+
+Número na Pokédex: #195
+Nome: Quagsire
+Tipagem: water, ground
+Fraquezas: grass, electric
+Descrição: This carefree POKéMON has an easy-going nature. While swimming, it always bumps into boat hulls. 
+----------------------------------------
+
+Número na Pokédex: #196
+Nome: Espeon
+Tipagem: psychic
+Fraquezas: bug, ghost, dark
+Descrição: It uses the fine hair that covers its body to sense air currents and predict its ene­ my's actions. 
+----------------------------------------
+
+

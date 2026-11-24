@@ -1,0 +1,31 @@
+--- doc018.txt ---
+
+Número na Pokédex: #66
+Nome: Machop
+Tipagem: fighting
+Fraquezas: flying, psychic, fairy
+Descrição: Loves to build its muscles. It trains in all styles of martial arts to become even stronger. 
+----------------------------------------
+
+Número na Pokédex: #67
+Nome: Machoke
+Tipagem: fighting
+Fraquezas: flying, psychic, fairy
+Descrição: Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions. 
+----------------------------------------
+
+Número na Pokédex: #68
+Nome: Machamp
+Tipagem: fighting
+Fraquezas: flying, psychic, fairy
+Descrição: Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon. 
+----------------------------------------
+
+Número na Pokédex: #69
+Nome: Bellsprout
+Tipagem: grass, poison
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: A carnivorous POKéMON that traps and eats bugs. It uses its root feet to soak up needed moisture. 
+----------------------------------------
+
+

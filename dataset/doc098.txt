@@ -1,0 +1,31 @@
+--- doc098.txt ---
+
+Número na Pokédex: #375
+Nome: Metang
+Tipagem: steel, psychic
+Fraquezas: fighting, ground, fire
+Descrição: When two BELDUM fuse together, METANG is formed. The brains of the BELDUM are joined by a magnetic nervous system. By linking its brains magnetically, this POKéMON generates strong psychokinetic power. 
+----------------------------------------
+
+Número na Pokédex: #376
+Nome: Metagross
+Tipagem: steel, psychic
+Fraquezas: fighting, ground, fire
+Descrição: METAGROSS has four brains in total. Combined, the four brains can breeze through difficult calculations faster than a supercomputer. This POKéMON can float in the air by tucking in its four legs. 
+----------------------------------------
+
+Número na Pokédex: #377
+Nome: Regirock
+Tipagem: rock
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: REGIROCK was sealed away by people long ago. If this POKéMON’s body is damaged in battle, it is said to seek out suitable rocks on its own to repair itself. 
+----------------------------------------
+
+Número na Pokédex: #378
+Nome: Regice
+Tipagem: ice
+Fraquezas: fighting, rock, steel, fire
+Descrição: REGICE’s body was made during an ice age. The deep-frozen body can’t be melted, even by fire. This POKéMON controls frigid air of minus 328 degrees F. 
+----------------------------------------
+
+

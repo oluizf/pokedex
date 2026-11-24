@@ -1,0 +1,31 @@
+--- doc066.txt ---
+
+Número na Pokédex: #251
+Nome: Celebi
+Tipagem: psychic, grass
+Fraquezas: bug, ghost, dark
+Descrição: This POKéMON wan­ ders across time. Grass and trees flourish in the forests in which it has appeared. 
+----------------------------------------
+
+Número na Pokédex: #252
+Nome: Treecko
+Tipagem: grass
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: TREECKO has small hooks on the bottom of its feet that enable it to scale vertical walls. This POKéMON attacks by slamming foes with its thick tail. 
+----------------------------------------
+
+Número na Pokédex: #253
+Nome: Grovyle
+Tipagem: grass
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: The leaves growing out of GROVYLE’s body are convenient for camouflaging it from enemies in the forest. This POKéMON is a master at climbing trees in jungles. 
+----------------------------------------
+
+Número na Pokédex: #254
+Nome: Sceptile
+Tipagem: grass
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: The leaves growing on SCEPTILE’s body are very sharp edged. This POKéMON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind. 
+----------------------------------------
+
+

@@ -1,0 +1,31 @@
+--- doc021.txt ---
+
+Número na Pokédex: #78
+Nome: Rapidash
+Tipagem: fire
+Fraquezas: ground, rock, water
+Descrição: Very competitive, this POKéMON will chase anything that moves fast in the hopes of racing it. 
+----------------------------------------
+
+Número na Pokédex: #79
+Nome: Slowpoke
+Tipagem: water, psychic
+Fraquezas: grass, electric
+Descrição: Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack. 
+----------------------------------------
+
+Número na Pokédex: #80
+Nome: Slowbro
+Tipagem: water, psychic
+Fraquezas: grass, electric
+Descrição: The SHELLDER that is latched onto SLOWPOKE's tail is said to feed on the host's left over scraps. 
+----------------------------------------
+
+Número na Pokédex: #81
+Nome: Magnemite
+Tipagem: electric, steel
+Fraquezas: ground
+Descrição: Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves. 
+----------------------------------------
+
+

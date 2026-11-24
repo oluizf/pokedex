@@ -1,0 +1,31 @@
+--- doc078.txt ---
+
+Número na Pokédex: #298
+Nome: Azurill
+Tipagem: normal, fairy
+Fraquezas: fighting
+Descrição: AZURILL spins its tail as if it were a lasso, then hurls it far. The momentum of the throw sends its body flying, too. Using this unique action, one of these POKéMON managed to hurl itself a record 33 feet. 
+----------------------------------------
+
+Número na Pokédex: #299
+Nome: Nosepass
+Tipagem: rock
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: NOSEPASS’s magnetic nose is always pointed to the north. If two of these POKéMON meet, they cannot turn their faces to each other when they are close because their magnetic noses repel one another. 
+----------------------------------------
+
+Número na Pokédex: #300
+Nome: Skitty
+Tipagem: normal
+Fraquezas: fighting
+Descrição: SKITTY has the habit of becoming fascinated by moving objects and chasing them around. This POKéMON is known to chase after its own tail and become dizzy. 
+----------------------------------------
+
+Número na Pokédex: #301
+Nome: Delcatty
+Tipagem: normal
+Fraquezas: fighting
+Descrição: DELCATTY prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this POKéMON eats and sleeps whenever it decides, its daily routines are completely random. 
+----------------------------------------
+
+

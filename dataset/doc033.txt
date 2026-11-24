@@ -1,0 +1,31 @@
+--- doc033.txt ---
+
+Número na Pokédex: #124
+Nome: Jynx
+Tipagem: ice, psychic
+Fraquezas: fighting, rock, steel, fire
+Descrição: It seductively wiggles its hips as it walks. It can cause people to dance in unison with it. 
+----------------------------------------
+
+Número na Pokédex: #125
+Nome: Electabuzz
+Tipagem: electric
+Fraquezas: ground
+Descrição: Normally found near power plants, they can wander away and cause major blackouts in cities. 
+----------------------------------------
+
+Número na Pokédex: #126
+Nome: Magmar
+Tipagem: fire
+Fraquezas: ground, rock, water
+Descrição: Its body always burns with an orange glow that enables it to hide perfectly among flames. 
+----------------------------------------
+
+Número na Pokédex: #127
+Nome: Pinsir
+Tipagem: bug
+Fraquezas: flying, rock, fire
+Descrição: If it fails to crush the victim in its pincers, it will swing it around and toss it hard. 
+----------------------------------------
+
+

@@ -1,0 +1,31 @@
+--- doc075.txt ---
+
+Número na Pokédex: #286
+Nome: Breloom
+Tipagem: grass, fighting
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: BRELOOM closes in on its foe with light and sprightly footwork, then throws punches with its stretchy arms. This POKéMON’s fighting technique puts boxers to shame. 
+----------------------------------------
+
+Número na Pokédex: #287
+Nome: Slakoth
+Tipagem: normal
+Fraquezas: fighting
+Descrição: SLAKOTH lolls around for over twenty hours every day. Because it moves so little, it does not need much food. This POKéMON’s sole daily meal consists of just three leaves. 
+----------------------------------------
+
+Número na Pokédex: #288
+Nome: Vigoroth
+Tipagem: normal
+Fraquezas: fighting
+Descrição: VIGOROTH is always itching and agitated to go on a wild rampage. It simply can’t tolerate sitting still for even a minute. This POKéMON’s stress level rises if it can’t be moving constantly. 
+----------------------------------------
+
+Número na Pokédex: #289
+Nome: Slaking
+Tipagem: normal
+Fraquezas: fighting
+Descrição: SLAKING spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this POKéMON reluctantly moves to another spot. 
+----------------------------------------
+
+

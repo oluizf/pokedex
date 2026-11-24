@@ -1,0 +1,31 @@
+--- doc083.txt ---
+
+Número na Pokédex: #317
+Nome: Swalot
+Tipagem: poison
+Fraquezas: ground, psychic
+Descrição: When SWALOT spots prey, it spurts out a hideously toxic fluid from its pores and sprays the target. Once the prey has weakened, this POKéMON gulps it down whole with its cavernous mouth. 
+----------------------------------------
+
+Número na Pokédex: #318
+Nome: Carvanha
+Tipagem: water, dark
+Fraquezas: grass, electric
+Descrição: CARVANHA’s strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls. Many boats have been attacked and sunk by this POKéMON. 
+----------------------------------------
+
+Número na Pokédex: #319
+Nome: Sharpedo
+Tipagem: water, dark
+Fraquezas: grass, electric
+Descrição: Nicknamed “the bully of the sea,” SHARPEDO is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these POKéMON can thoroughly tear apart a supertanker. 
+----------------------------------------
+
+Número na Pokédex: #320
+Nome: Wailmer
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: WAILMER’s nostrils are located above its eyes. This playful POKéMON loves to startle people by forcefully snorting out seawater it stores inside its body out of its nostrils. 
+----------------------------------------
+
+

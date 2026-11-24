@@ -1,0 +1,31 @@
+--- doc007.txt ---
+
+Número na Pokédex: #24
+Nome: Arbok
+Tipagem: poison
+Fraquezas: ground, psychic
+Descrição: It is rumored that the ferocious warning markings on its belly differ from area to area. 
+----------------------------------------
+
+Número na Pokédex: #25
+Nome: Pikachu
+Tipagem: electric
+Fraquezas: ground
+Descrição: When several of these POKéMON gather, their electricity could build and cause lightning storms. 
+----------------------------------------
+
+Número na Pokédex: #26
+Nome: Raichu
+Tipagem: electric
+Fraquezas: ground
+Descrição: Its long tail serves as a ground to protect itself from its own high voltage power. 
+----------------------------------------
+
+Número na Pokédex: #27
+Nome: Sandshrew
+Tipagem: ground
+Fraquezas: water, grass, ice
+Descrição: Burrows deep underground in arid locations far from water. It only emerges to hunt for food. 
+----------------------------------------
+
+

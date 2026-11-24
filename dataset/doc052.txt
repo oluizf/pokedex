@@ -1,0 +1,31 @@
+--- doc052.txt ---
+
+Número na Pokédex: #197
+Nome: Umbreon
+Tipagem: dark
+Fraquezas: fighting, bug, fairy
+Descrição: When agitated, this POKéMON pro­ tects itself by spraying poisonous sweat from its pores. 
+----------------------------------------
+
+Número na Pokédex: #198
+Nome: Murkrow
+Tipagem: dark, flying
+Fraquezas: fighting, bug, fairy
+Descrição: Feared and loathed by many, it is believed to bring misfortune to all those who see it at night. 
+----------------------------------------
+
+Número na Pokédex: #199
+Nome: Slowking
+Tipagem: water, psychic
+Fraquezas: grass, electric
+Descrição: It has incredible intellect and in­ tuition. Whatever the situation, it remains calm and collected. 
+----------------------------------------
+
+Número na Pokédex: #200
+Nome: Misdreavus
+Tipagem: ghost
+Fraquezas: ghost, dark
+Descrição: It likes playing mischievous tricks such as screaming and wailing to startle people at night. 
+----------------------------------------
+
+

@@ -1,0 +1,31 @@
+--- doc060.txt ---
+
+Número na Pokédex: #228
+Nome: Houndour
+Tipagem: dark, fire
+Fraquezas: fighting, bug, fairy
+Descrição: It uses different kinds of cries for communicating with others of its kind and for pursuing its prey. 
+----------------------------------------
+
+Número na Pokédex: #229
+Nome: Houndoom
+Tipagem: dark, fire
+Fraquezas: fighting, bug, fairy
+Descrição: If you are burned by the flames it shoots from its mouth, the pain will never go away. 
+----------------------------------------
+
+Número na Pokédex: #230
+Nome: Kingdra
+Tipagem: water, dragon
+Fraquezas: grass, electric
+Descrição: It is said that it usually hides in underwater caves. It can create whirlpools by yawning. 
+----------------------------------------
+
+Número na Pokédex: #231
+Nome: Phanpy
+Tipagem: ground
+Fraquezas: water, grass, ice
+Descrição: It swings its long snout around play­ fully, but because it is so strong, that can be dan­ gerous. 
+----------------------------------------
+
+

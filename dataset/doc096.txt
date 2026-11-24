@@ -1,0 +1,31 @@
+--- doc096.txt ---
+
+Número na Pokédex: #367
+Nome: Huntail
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: HUNTAIL’s presence went unnoticed by people for a long time because it lives at extreme depths in the sea. This POKéMON’s eyes can see clearly even in the murky dark depths of the ocean. 
+----------------------------------------
+
+Número na Pokédex: #368
+Nome: Gorebyss
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: GOREBYSS lives in the southern seas at extreme depths. Its body is built to withstand the enormous pressure of water at incredible depths. Because of this, this POKéMON’s body is unharmed by ordinary attacks. 
+----------------------------------------
+
+Número na Pokédex: #369
+Nome: Relicanth
+Tipagem: water, rock
+Fraquezas: grass, electric
+Descrição: RELICANTH is a POKéMON species that existed for a hundred million years without ever changing its form. This ancient POKéMON feeds on microscopic organisms with its toothless mouth. 
+----------------------------------------
+
+Número na Pokédex: #370
+Nome: Luvdisc
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: LUVDISC live in shallow seas in the tropics. This heart-shaped POKéMON earned its name by swimming after loving couples it spotted in the ocean’s waves. 
+----------------------------------------
+
+

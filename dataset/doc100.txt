@@ -1,0 +1,31 @@
+--- doc100.txt ---
+
+Número na Pokédex: #383
+Nome: Groudon
+Tipagem: ground
+Fraquezas: water, grass, ice
+Descrição: GROUDON has long been described in mythology as the POKéMON that raised lands and expanded continents. This POKéMON took to sleep after a cataclysmic battle with KYOGRE. 
+----------------------------------------
+
+Número na Pokédex: #384
+Nome: Rayquaza
+Tipagem: dragon, flying
+Fraquezas: ice, dragon, fairy
+Descrição: RAYQUAZA lived for hundreds of millions of years in the earth’s ozone layer, never descending to the ground. This POKéMON appears to feed on water and particles in the atmosphere. 
+----------------------------------------
+
+Número na Pokédex: #385
+Nome: Jirachi
+Tipagem: steel, psychic
+Fraquezas: fighting, ground, fire
+Descrição: A legend states that JIRACHI will make true any wish that is written on notes attached to its head when it awakens. If this POKéMON senses danger, it will fight without awakening. 
+----------------------------------------
+
+Número na Pokédex: #386
+Nome: Deoxys-normal
+Tipagem: psychic
+Fraquezas: bug, ghost, dark
+Descrição: The DNA of a space virus underwent a sudden mutation upon exposure to a laser beam and resulted in DEOXYS. The crystalline organ on this POKéMON’s chest appears to be its brain. 
+----------------------------------------
+
+

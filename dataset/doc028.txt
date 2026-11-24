@@ -1,0 +1,31 @@
+--- doc028.txt ---
+
+Número na Pokédex: #105
+Nome: Marowak
+Tipagem: ground
+Fraquezas: water, grass, ice
+Descrição: The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets. 
+----------------------------------------
+
+Número na Pokédex: #106
+Nome: Hitmonlee
+Tipagem: fighting
+Fraquezas: flying, psychic, fairy
+Descrição: When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides. 
+----------------------------------------
+
+Número na Pokédex: #107
+Nome: Hitmonchan
+Tipagem: fighting
+Fraquezas: flying, psychic, fairy
+Descrição: While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see. 
+----------------------------------------
+
+Número na Pokédex: #108
+Nome: Lickitung
+Tipagem: normal
+Fraquezas: fighting
+Descrição: Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies. 
+----------------------------------------
+
+

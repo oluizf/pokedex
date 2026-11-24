@@ -1,0 +1,24 @@
+--- doc065.txt ---
+
+Número na Pokédex: #248
+Nome: Tyranitar
+Tipagem: rock, dark
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies. 
+----------------------------------------
+
+Número na Pokédex: #249
+Nome: Lugia
+Tipagem: psychic, flying
+Fraquezas: bug, ghost, dark
+Descrição: It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong. 
+----------------------------------------
+
+Número na Pokédex: #250
+Nome: Ho-oh
+Tipagem: fire, flying
+Fraquezas: ground, rock, water
+Descrição: Legends claim this POKéMON flies the world's skies con­ tinuously on its magnificent seven- colored wings. 
+----------------------------------------
+
+

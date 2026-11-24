@@ -1,0 +1,31 @@
+--- doc087.txt ---
+
+Número na Pokédex: #332
+Nome: Cacturne
+Tipagem: grass, dark
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: During the daytime, CACTURNE remains unmoving so that it does not lose any moisture to the harsh desert sun. This POKéMON becomes active at night when the temperature drops. 
+----------------------------------------
+
+Número na Pokédex: #333
+Nome: Swablu
+Tipagem: normal, flying
+Fraquezas: fighting
+Descrição: SWABLU has light and fluffy wings that are like cottony clouds. This POKéMON is not frightened of people. It lands on the heads of people and sits there like a cotton-fluff hat. 
+----------------------------------------
+
+Número na Pokédex: #334
+Nome: Altaria
+Tipagem: dragon, flying
+Fraquezas: ice, dragon, fairy
+Descrição: ALTARIA dances and wheels through the sky among billowing, cotton-like clouds. By singing melodies in its crystal-clear voice, this POKéMON makes its listeners experience dreamy wonderment. 
+----------------------------------------
+
+Número na Pokédex: #335
+Nome: Zangoose
+Tipagem: normal
+Fraquezas: fighting
+Descrição: Memories of battling its arch-rival SEVIPER are etched into every cell of ZANGOOSE’s body. This POKéMON adroitly dodges attacks with incredible agility. 
+----------------------------------------
+
+

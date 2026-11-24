@@ -1,0 +1,31 @@
+--- doc032.txt ---
+
+Número na Pokédex: #120
+Nome: Staryu
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle. 
+----------------------------------------
+
+Número na Pokédex: #121
+Nome: Starmie
+Tipagem: water, psychic
+Fraquezas: grass, electric
+Descrição: Its central core glows with the seven colors of the rainbow. Some people value the core as a gem. 
+----------------------------------------
+
+Número na Pokédex: #122
+Nome: Mr-mime
+Tipagem: psychic, fairy
+Fraquezas: bug, ghost, dark
+Descrição: If interrupted while it is miming, it will slap around the offender with its broad hands. 
+----------------------------------------
+
+Número na Pokédex: #123
+Nome: Scyther
+Tipagem: bug, flying
+Fraquezas: flying, rock, fire
+Descrição: With ninja-like agility and speed, it can create the illusion that there is more than one. 
+----------------------------------------
+
+

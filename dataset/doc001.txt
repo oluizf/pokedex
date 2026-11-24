@@ -1,0 +1,24 @@
+--- doc001.txt ---
+
+Número na Pokédex: #1
+Nome: Bulbasaur
+Tipagem: grass, poison
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON. 
+----------------------------------------
+
+Número na Pokédex: #2
+Nome: Ivysaur
+Tipagem: grass, poison
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs. 
+----------------------------------------
+
+Número na Pokédex: #3
+Nome: Venusaur
+Tipagem: grass, poison
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight. 
+----------------------------------------
+
+

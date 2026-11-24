@@ -1,0 +1,24 @@
+--- doc022.txt ---
+
+Número na Pokédex: #82
+Nome: Magneton
+Tipagem: electric, steel
+Fraquezas: ground
+Descrição: Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up. 
+----------------------------------------
+
+Número na Pokédex: #83
+Nome: Farfetchd
+Tipagem: normal, flying
+Fraquezas: fighting
+Descrição: The sprig of green onions it holds is its weapon. It is used much like a metal sword. 
+----------------------------------------
+
+Número na Pokédex: #84
+Nome: Doduo
+Tipagem: normal, flying
+Fraquezas: fighting
+Descrição: A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints. 
+----------------------------------------
+
+

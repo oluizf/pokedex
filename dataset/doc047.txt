@@ -1,0 +1,31 @@
+--- doc047.txt ---
+
+Número na Pokédex: #178
+Nome: Xatu
+Tipagem: psychic, flying
+Fraquezas: bug, ghost, dark
+Descrição: They say that it stays still and quiet because it is seeing both the past and future at the same time. 
+----------------------------------------
+
+Número na Pokédex: #179
+Nome: Mareep
+Tipagem: electric
+Fraquezas: ground
+Descrição: If static elec­ tricity builds in its body, its fleece doubles in volume. Touching it will shock you. 
+----------------------------------------
+
+Número na Pokédex: #180
+Nome: Flaaffy
+Tipagem: electric
+Fraquezas: ground
+Descrição: As a result of storing too much electricity, it developed patches where even downy wool won't grow. 
+----------------------------------------
+
+Número na Pokédex: #181
+Nome: Ampharos
+Tipagem: electric
+Fraquezas: ground
+Descrição: The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people. 
+----------------------------------------
+
+

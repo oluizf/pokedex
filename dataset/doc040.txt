@@ -1,0 +1,31 @@
+--- doc040.txt ---
+
+Número na Pokédex: #151
+Nome: Mew
+Tipagem: psychic
+Fraquezas: bug, ghost, dark
+Descrição: So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide. 
+----------------------------------------
+
+Número na Pokédex: #152
+Nome: Chikorita
+Tipagem: grass
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up the sun's rays. 
+----------------------------------------
+
+Número na Pokédex: #153
+Nome: Bayleef
+Tipagem: grass
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight. 
+----------------------------------------
+
+Número na Pokédex: #154
+Nome: Meganium
+Tipagem: grass
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: The aroma that rises from its petals contains a substance that calms aggressive feelings. 
+----------------------------------------
+
+

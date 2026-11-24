@@ -1,0 +1,31 @@
+--- doc037.txt ---
+
+Número na Pokédex: #139
+Nome: Omastar
+Tipagem: rock, water
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey. 
+----------------------------------------
+
+Número na Pokédex: #140
+Nome: Kabuto
+Tipagem: rock, water
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago. 
+----------------------------------------
+
+Número na Pokédex: #141
+Nome: Kabutops
+Tipagem: rock, water
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: Its sleek shape is perfect for swim­ ming. It slashes prey with its claws and drains the body fluids. 
+----------------------------------------
+
+Número na Pokédex: #142
+Nome: Aerodactyl
+Tipagem: rock, flying
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: A ferocious, pre­ historic POKéMON that goes for the enemy's throat with its serrated saw-like fangs. 
+----------------------------------------
+
+

@@ -1,0 +1,31 @@
+--- doc099.txt ---
+
+Número na Pokédex: #379
+Nome: Registeel
+Tipagem: steel
+Fraquezas: fighting, ground, fire
+Descrição: REGISTEEL has a body that is harder than any kind of metal. Its body is apparently hollow. No one has any idea what this POKéMON eats. 
+----------------------------------------
+
+Número na Pokédex: #380
+Nome: Latias
+Tipagem: dragon, psychic
+Fraquezas: ice, dragon, fairy
+Descrição: LATIAS is highly sensitive to the emotions of people. If it senses any hostility, this POKéMON ruffles the feathers all over its body and cries shrilly to intimidate the foe. 
+----------------------------------------
+
+Número na Pokédex: #381
+Nome: Latios
+Tipagem: dragon, psychic
+Fraquezas: ice, dragon, fairy
+Descrição: LATIOS has the ability to make its foe see an image of what it has seen or imagines in its head. This POKéMON is intelligent and understands human speech. 
+----------------------------------------
+
+Número na Pokédex: #382
+Nome: Kyogre
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: KYOGRE has the power to create massive rain clouds that cover the entire sky and bring about torrential downpours. This POKéMON saved people who were suffering from droughts. 
+----------------------------------------
+
+

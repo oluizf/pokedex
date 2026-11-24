@@ -1,0 +1,31 @@
+--- doc016.txt ---
+
+Número na Pokédex: #58
+Nome: Growlithe
+Tipagem: fire
+Fraquezas: ground, rock, water
+Descrição: Very protective of its territory. It will bark and bite to repel intruders from its space. 
+----------------------------------------
+
+Número na Pokédex: #59
+Nome: Arcanine
+Tipagem: fire
+Fraquezas: ground, rock, water
+Descrição: A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings. 
+----------------------------------------
+
+Número na Pokédex: #60
+Nome: Poliwag
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand. 
+----------------------------------------
+
+Número na Pokédex: #61
+Nome: Poliwhirl
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: Capable of living in or out of water. When out of water, it sweats to keep its body slimy. 
+----------------------------------------
+
+

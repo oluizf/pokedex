@@ -1,0 +1,31 @@
+--- doc009.txt ---
+
+Número na Pokédex: #31
+Nome: Nidoqueen
+Tipagem: poison, ground
+Fraquezas: ground, psychic
+Descrição: Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves. 
+----------------------------------------
+
+Número na Pokédex: #32
+Nome: Nidoran-m
+Tipagem: poison
+Fraquezas: ground, psychic
+Descrição: Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom. 
+----------------------------------------
+
+Número na Pokédex: #33
+Nome: Nidorino
+Tipagem: poison
+Fraquezas: ground, psychic
+Descrição: An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom. 
+----------------------------------------
+
+Número na Pokédex: #34
+Nome: Nidoking
+Tipagem: poison, ground
+Fraquezas: ground, psychic
+Descrição: It uses its powerful tail in battle to smash, constrict, then break the prey's bones. 
+----------------------------------------
+
+

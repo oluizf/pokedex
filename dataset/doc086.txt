@@ -1,0 +1,24 @@
+--- doc086.txt ---
+
+Número na Pokédex: #329
+Nome: Vibrava
+Tipagem: ground, dragon
+Fraquezas: water, grass, ice
+Descrição: To make prey faint, VIBRAVA generates ultrasonic waves by vigorously making its two wings vibrate. This POKéMON’s ultrasonic waves are so powerful, they can bring on headaches in people. 
+----------------------------------------
+
+Número na Pokédex: #330
+Nome: Flygon
+Tipagem: ground, dragon
+Fraquezas: water, grass, ice
+Descrição: FLYGON is nicknamed “the elemental spirit of the desert.” Because its flapping wings whip up a cloud of sand, this POKéMON is always enveloped in a sandstorm while flying. 
+----------------------------------------
+
+Número na Pokédex: #331
+Nome: Cacnea
+Tipagem: grass
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: CACNEA lives in arid locations such as deserts. It releases a strong aroma from its flower to attract prey. When prey comes near, this POKéMON shoots sharp thorns from its body to bring the victim down. 
+----------------------------------------
+
+

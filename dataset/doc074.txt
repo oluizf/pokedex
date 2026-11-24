@@ -1,0 +1,31 @@
+--- doc074.txt ---
+
+Número na Pokédex: #282
+Nome: Gardevoir
+Tipagem: psychic, fairy
+Fraquezas: bug, ghost, dark
+Descrição: GARDEVOIR has the ability to read the future. If it senses impending danger to its TRAINER, this POKéMON is said to unleash its psychokinetic energy at full power. 
+----------------------------------------
+
+Número na Pokédex: #283
+Nome: Surskit
+Tipagem: bug, water
+Fraquezas: flying, rock, fire
+Descrição: From the tips of its feet, SURSKIT secretes an oil that enables it to walk on water as if it were skating. This POKéMON feeds on microscopic organisms in ponds and lakes. 
+----------------------------------------
+
+Número na Pokédex: #284
+Nome: Masquerain
+Tipagem: bug, flying
+Fraquezas: flying, rock, fire
+Descrição: MASQUERAIN intimidates enemies with the eyelike patterns on its antennas. This POKéMON flaps its four wings to freely fly in any direction - even sideways and backwards - as if it were a helicopter. 
+----------------------------------------
+
+Número na Pokédex: #285
+Nome: Shroomish
+Tipagem: grass
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: SHROOMISH live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This POKéMON feeds on compost that is made up of fallen, rotted leaves. 
+----------------------------------------
+
+

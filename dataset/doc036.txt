@@ -1,0 +1,24 @@
+--- doc036.txt ---
+
+Número na Pokédex: #136
+Nome: Flareon
+Tipagem: fire
+Fraquezas: ground, rock, water
+Descrição: When storing thermal energy in its body, its temperature could soar to over 1600 degrees. 
+----------------------------------------
+
+Número na Pokédex: #137
+Nome: Porygon
+Tipagem: normal
+Fraquezas: fighting
+Descrição: A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace. 
+----------------------------------------
+
+Número na Pokédex: #138
+Nome: Omanyte
+Tipagem: rock, water
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: Although long extinct, in rare cases, it can be genetically resurrected from fossils. 
+----------------------------------------
+
+

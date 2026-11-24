@@ -1,0 +1,31 @@
+--- doc084.txt ---
+
+Número na Pokédex: #321
+Nome: Wailord
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: WAILORD is the largest of all identified POKéMON up to now. This giant POKéMON swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth. 
+----------------------------------------
+
+Número na Pokédex: #322
+Nome: Numel
+Tipagem: fire, ground
+Fraquezas: ground, rock, water
+Descrição: NUMEL is extremely dull witted - it doesn’t notice being hit. However, it can’t stand hunger for even a second. This POKéMON’s body is a seething cauldron of boiling magma. 
+----------------------------------------
+
+Número na Pokédex: #323
+Nome: Camerupt
+Tipagem: fire, ground
+Fraquezas: ground, rock, water
+Descrição: CAMERUPT has a volcano inside its body. Magma of 18,000 degrees F courses through its body. Occasionally, the humps on this POKéMON’s back erupt, spewing the superheated magma. 
+----------------------------------------
+
+Número na Pokédex: #324
+Nome: Torkoal
+Tipagem: fire
+Fraquezas: ground, rock, water
+Descrição: TORKOAL digs through mountains in search of coal. If it finds some, it fills hollow spaces on its shell with the coal and burns it. If it is attacked, this POKéMON spouts thick black smoke to beat a retreat. 
+----------------------------------------
+
+

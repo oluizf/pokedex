@@ -1,0 +1,31 @@
+--- doc067.txt ---
+
+Número na Pokédex: #255
+Nome: Torchic
+Tipagem: fire
+Fraquezas: ground, rock, water
+Descrição: TORCHIC sticks with its TRAINER, following behind with unsteady steps. This POKéMON breathes fire of over 1,800 degrees F, including fireballs that leave the foe scorched black. 
+----------------------------------------
+
+Número na Pokédex: #256
+Nome: Combusken
+Tipagem: fire, fighting
+Fraquezas: ground, rock, water
+Descrição: COMBUSKEN toughens up its legs and thighs by running through fields and mountains. This POKéMON’s legs possess both speed and power, enabling it to dole out ten kicks in one second. 
+----------------------------------------
+
+Número na Pokédex: #257
+Nome: Blaziken
+Tipagem: fire, fighting
+Fraquezas: ground, rock, water
+Descrição: In battle, BLAZIKEN blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this POKéMON’s wrists burn. 
+----------------------------------------
+
+Número na Pokédex: #258
+Nome: Mudkip
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: The fin on MUDKIP’s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this POKéMON can determine what is taking place around it without using its eyes. 
+----------------------------------------
+
+

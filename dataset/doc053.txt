@@ -1,0 +1,31 @@
+--- doc053.txt ---
+
+Número na Pokédex: #201
+Nome: Unown
+Tipagem: psychic
+Fraquezas: bug, ghost, dark
+Descrição: Their shapes look like hieroglyphs on ancient tab­ lets. It is said that the two are somehow related. 
+----------------------------------------
+
+Número na Pokédex: #202
+Nome: Wobbuffet
+Tipagem: psychic
+Fraquezas: bug, ghost, dark
+Descrição: It hates light and shock. If attack­ ed, it inflates its body to pump up its counter­ strike. 
+----------------------------------------
+
+Número na Pokédex: #203
+Nome: Girafarig
+Tipagem: normal, psychic
+Fraquezas: fighting
+Descrição: Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite. 
+----------------------------------------
+
+Número na Pokédex: #204
+Nome: Pineco
+Tipagem: bug
+Fraquezas: flying, rock, fire
+Descrição: It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it. 
+----------------------------------------
+
+

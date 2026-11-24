@@ -1,0 +1,31 @@
+--- doc048.txt ---
+
+Número na Pokédex: #182
+Nome: Bellossom
+Tipagem: grass
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: BELLOSSOM gather at times and appear to dance. They say that the dance is a ritual to summon the sun. 
+----------------------------------------
+
+Número na Pokédex: #183
+Nome: Marill
+Tipagem: water, fairy
+Fraquezas: grass, electric
+Descrição: The tip of its tail, which con­ tains oil that is lighter than wa­ ter, lets it swim without drowning. 
+----------------------------------------
+
+Número na Pokédex: #184
+Nome: Azumarill
+Tipagem: water, fairy
+Fraquezas: grass, electric
+Descrição: By keeping still and listening in­ tently, it can tell what is in even wild, fast- moving rivers. 
+----------------------------------------
+
+Número na Pokédex: #185
+Nome: Sudowoodo
+Tipagem: rock
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: Although it always pretends to be a tree, its composi­ tion appears to be closer to a rock than a plant. 
+----------------------------------------
+
+

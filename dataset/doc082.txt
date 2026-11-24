@@ -1,0 +1,31 @@
+--- doc082.txt ---
+
+Número na Pokédex: #313
+Nome: Volbeat
+Tipagem: bug
+Fraquezas: flying, rock, fire
+Descrição: With the arrival of night, VOLBEAT emits light from its tail. It communicates with others by adjusting the intensity and flashing of its light. This POKéMON is attracted by the sweet aroma of ILLUMISE. 
+----------------------------------------
+
+Número na Pokédex: #314
+Nome: Illumise
+Tipagem: bug
+Fraquezas: flying, rock, fire
+Descrição: ILLUMISE attracts a swarm of VOLBEAT using a sweet fragrance. Once the VOLBEAT have gathered, this POKéMON leads the lit-up swarm in drawing geometric designs on the canvas of the night sky. 
+----------------------------------------
+
+Número na Pokédex: #315
+Nome: Roselia
+Tipagem: grass, poison
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: ROSELIA shoots sharp thorns as projectiles at any opponent that tries to steal the flowers on its arms. The aroma of this POKéMON brings serenity to living things. 
+----------------------------------------
+
+Número na Pokédex: #316
+Nome: Gulpin
+Tipagem: poison
+Fraquezas: ground, psychic
+Descrição: Virtually all of GULPIN’s body is its stomach. As a result, it can swallow something its own size. This POKéMON’s stomach contains a special fluid that digests anything. 
+----------------------------------------
+
+

@@ -1,0 +1,31 @@
+--- doc025.txt ---
+
+Número na Pokédex: #93
+Nome: Haunter
+Tipagem: ghost, poison
+Fraquezas: ghost, dark
+Descrição: Because of its ability to slip through block walls, it is said to be from an­ other dimension. 
+----------------------------------------
+
+Número na Pokédex: #94
+Nome: Gengar
+Tipagem: ghost, poison
+Fraquezas: ghost, dark
+Descrição: Under a full moon, this POKéMON likes to mimic the shadows of people and laugh at their fright. 
+----------------------------------------
+
+Número na Pokédex: #95
+Nome: Onix
+Tipagem: rock, ground
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: As it grows, the stone portions of its body harden to become similar to a diamond, but colored black. 
+----------------------------------------
+
+Número na Pokédex: #96
+Nome: Drowzee
+Tipagem: psychic
+Fraquezas: bug, ghost, dark
+Descrição: Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams. 
+----------------------------------------
+
+

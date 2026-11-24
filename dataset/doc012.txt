@@ -1,0 +1,31 @@
+--- doc012.txt ---
+
+Número na Pokédex: #43
+Nome: Oddish
+Tipagem: grass, poison
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds. 
+----------------------------------------
+
+Número na Pokédex: #44
+Nome: Gloom
+Tipagem: grass, poison
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey. 
+----------------------------------------
+
+Número na Pokédex: #45
+Nome: Vileplume
+Tipagem: grass, poison
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up. 
+----------------------------------------
+
+Número na Pokédex: #46
+Nome: Paras
+Tipagem: bug, grass
+Fraquezas: flying, rock, fire
+Descrição: Burrows to suck tree roots. The mushrooms on its back grow by draw­ ing nutrients from the bug host. 
+----------------------------------------
+
+

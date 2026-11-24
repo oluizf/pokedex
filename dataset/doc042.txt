@@ -1,0 +1,31 @@
+--- doc042.txt ---
+
+Número na Pokédex: #159
+Nome: Croconaw
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth. 
+----------------------------------------
+
+Número na Pokédex: #160
+Nome: Feraligatr
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up. 
+----------------------------------------
+
+Número na Pokédex: #161
+Nome: Sentret
+Tipagem: normal
+Fraquezas: fighting
+Descrição: A very cautious POKéMON, it raises itself up using its tail to get a better view of its surroundings. 
+----------------------------------------
+
+Número na Pokédex: #162
+Nome: Furret
+Tipagem: normal
+Fraquezas: fighting
+Descrição: It makes a nest to suit its long and skinny body. The nest is impossible for other POKéMON to enter. 
+----------------------------------------
+
+

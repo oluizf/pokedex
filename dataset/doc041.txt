@@ -1,0 +1,31 @@
+--- doc041.txt ---
+
+Número na Pokédex: #155
+Nome: Cyndaquil
+Tipagem: fire
+Fraquezas: ground, rock, water
+Descrição: It is timid, and always curls it­ self up in a ball. If attacked, it flares up its back for protection. 
+----------------------------------------
+
+Número na Pokédex: #156
+Nome: Quilava
+Tipagem: fire
+Fraquezas: ground, rock, water
+Descrição: Be careful if it turns its back during battle. It means that it will attack with the fire on its back. 
+----------------------------------------
+
+Número na Pokédex: #157
+Nome: Typhlosion
+Tipagem: fire
+Fraquezas: ground, rock, water
+Descrição: If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames. 
+----------------------------------------
+
+Número na Pokédex: #158
+Nome: Totodile
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: Its well-developed jaws are powerful and capable of crushing anything. Even its trainer must be careful. 
+----------------------------------------
+
+

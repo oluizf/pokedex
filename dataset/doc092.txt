@@ -1,0 +1,31 @@
+--- doc092.txt ---
+
+Número na Pokédex: #352
+Nome: Kecleon
+Tipagem: normal
+Fraquezas: fighting
+Descrição: KECLEON is capable of changing its body colors at will to blend in with its surroundings. There is one exception - this POKéMON can’t change the zigzag pattern on its belly. 
+----------------------------------------
+
+Número na Pokédex: #353
+Nome: Shuppet
+Tipagem: ghost
+Fraquezas: ghost, dark
+Descrição: SHUPPET is attracted by feelings of jealousy and vindictiveness. If someone develops strong feelings of vengeance, this POKéMON will appear in a swarm and line up beneath the eaves of that person’s home. 
+----------------------------------------
+
+Número na Pokédex: #354
+Nome: Banette
+Tipagem: ghost
+Fraquezas: ghost, dark
+Descrição: BANETTE generates energy for laying strong curses by sticking pins into its own body. This POKéMON was originally a pitiful plush doll that was thrown away. 
+----------------------------------------
+
+Número na Pokédex: #355
+Nome: Duskull
+Tipagem: ghost
+Fraquezas: ghost, dark
+Descrição: DUSKULL can pass through any wall no matter how thick it may be. Once this POKéMON chooses a target, it will doggedly pursue the intended victim until the break of dawn. 
+----------------------------------------
+
+

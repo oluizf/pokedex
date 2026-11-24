@@ -1,0 +1,31 @@
+--- doc077.txt ---
+
+Número na Pokédex: #294
+Nome: Loudred
+Tipagem: normal
+Fraquezas: fighting
+Descrição: LOUDRED’s bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This POKéMON’s round ears serve as loudspeakers. 
+----------------------------------------
+
+Número na Pokédex: #295
+Nome: Exploud
+Tipagem: normal
+Fraquezas: fighting
+Descrição: EXPLOUD triggers earthquakes with the tremors it creates by bellowing. If this POKéMON violently inhales from the ports on its body, it’s a sign that it is preparing to let loose a huge bellow. 
+----------------------------------------
+
+Número na Pokédex: #296
+Nome: Makuhita
+Tipagem: fighting
+Fraquezas: flying, psychic, fairy
+Descrição: MAKUHITA is tenacious - it will keep getting up and attacking its foe however many times it is knocked down. Every time it gets back up, this POKéMON stores more energy in its body for evolving. 
+----------------------------------------
+
+Número na Pokédex: #297
+Nome: Hariyama
+Tipagem: fighting
+Fraquezas: flying, psychic, fairy
+Descrição: HARIYAMA practices its straight-arm slaps in any number of locations. One hit of this POKéMON’s powerful, openhanded, straight-arm punches could snap a telephone pole in two. 
+----------------------------------------
+
+

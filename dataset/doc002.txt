@@ -1,0 +1,31 @@
+--- doc002.txt ---
+
+Número na Pokédex: #4
+Nome: Charmander
+Tipagem: fire
+Fraquezas: ground, rock, water
+Descrição: Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail. 
+----------------------------------------
+
+Número na Pokédex: #5
+Nome: Charmeleon
+Tipagem: fire
+Fraquezas: ground, rock, water
+Descrição: When it swings its burning tail, it elevates the temperature to unbearably high levels. 
+----------------------------------------
+
+Número na Pokédex: #6
+Nome: Charizard
+Tipagem: fire, flying
+Fraquezas: ground, rock, water
+Descrição: Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally. 
+----------------------------------------
+
+Número na Pokédex: #7
+Nome: Squirtle
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth. 
+----------------------------------------
+
+

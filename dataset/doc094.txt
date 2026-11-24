@@ -1,0 +1,31 @@
+--- doc094.txt ---
+
+Número na Pokédex: #359
+Nome: Absol
+Tipagem: dark
+Fraquezas: fighting, bug, fairy
+Descrição: Every time ABSOL appears before people, it is followed by a disaster such as an earthquake or a tidal wave. As a result, it came to be known as the disaster POKéMON. 
+----------------------------------------
+
+Número na Pokédex: #360
+Nome: Wynaut
+Tipagem: psychic
+Fraquezas: bug, ghost, dark
+Descrição: WYNAUT can always be seen with a big, happy smile on its face. Look at its tail to determine if it is angry. When angered, this POKéMON will be slapping the ground with its tail. 
+----------------------------------------
+
+Número na Pokédex: #361
+Nome: Snorunt
+Tipagem: ice
+Fraquezas: fighting, rock, steel, fire
+Descrição: SNORUNT live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this POKéMON steals away to live quietly among stalactites and stalagmites deep in caverns. 
+----------------------------------------
+
+Número na Pokédex: #362
+Nome: Glalie
+Tipagem: ice
+Fraquezas: fighting, rock, steel, fire
+Descrição: GLALIE has a body made of rock, which it hardens with an armor of ice. This POKéMON has the ability to freeze moisture in the atmosphere into any shape it desires. 
+----------------------------------------
+
+

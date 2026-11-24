@@ -1,0 +1,31 @@
+--- doc061.txt ---
+
+Número na Pokédex: #232
+Nome: Donphan
+Tipagem: ground
+Fraquezas: water, grass, ice
+Descrição: It has sharp, hard tusks and a rugged hide. Its TACKLE is strong enough to knock down a house. 
+----------------------------------------
+
+Número na Pokédex: #233
+Nome: Porygon2
+Tipagem: normal
+Fraquezas: fighting
+Descrição: This upgraded version of PORYGON is designed for space exploration. It can't fly, though. 
+----------------------------------------
+
+Número na Pokédex: #234
+Nome: Stantler
+Tipagem: normal
+Fraquezas: fighting
+Descrição: The curved antlers subtly change the flow of air to create a strange space where real­ ity is distorted. 
+----------------------------------------
+
+Número na Pokédex: #235
+Nome: Smeargle
+Tipagem: normal
+Fraquezas: fighting
+Descrição: A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory. 
+----------------------------------------
+
+

@@ -1,0 +1,31 @@
+--- doc050.txt ---
+
+Número na Pokédex: #190
+Nome: Aipom
+Tipagem: normal
+Fraquezas: fighting
+Descrição: Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air. 
+----------------------------------------
+
+Número na Pokédex: #191
+Nome: Sunkern
+Tipagem: grass
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: It may drop out of the sky suddenly. If attacked by a SPEAROW, it will violently shake its leaves. 
+----------------------------------------
+
+Número na Pokédex: #192
+Nome: Sunflora
+Tipagem: grass
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: It converts sun­ light into energy. In the darkness after sunset, it closes its petals and becomes still. 
+----------------------------------------
+
+Número na Pokédex: #193
+Nome: Yanma
+Tipagem: bug, flying
+Fraquezas: flying, rock, fire
+Descrição: If it flaps its wings really fast, it can generate shock waves that will shatter win­ dows in the area. 
+----------------------------------------
+
+

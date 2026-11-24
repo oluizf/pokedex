@@ -1,0 +1,31 @@
+--- doc064.txt ---
+
+Número na Pokédex: #244
+Nome: Entei
+Tipagem: fire
+Fraquezas: ground, rock, water
+Descrição: Volcanoes erupt when it barks. Un­ able to restrain its extreme power, it races headlong around the land. 
+----------------------------------------
+
+Número na Pokédex: #245
+Nome: Suicune
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: Said to be the reincarnation of north winds, it can instantly purify filthy, murky water. 
+----------------------------------------
+
+Número na Pokédex: #246
+Nome: Larvitar
+Tipagem: rock, ground
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow. 
+----------------------------------------
+
+Número na Pokédex: #247
+Nome: Pupitar
+Tipagem: rock, ground
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain. 
+----------------------------------------
+
+

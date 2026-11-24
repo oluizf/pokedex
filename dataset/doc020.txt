@@ -1,0 +1,31 @@
+--- doc020.txt ---
+
+Número na Pokédex: #74
+Nome: Geodude
+Tipagem: rock, ground
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: Found in fields and mountains. Mistaking them for boulders, people often step or trip on them. 
+----------------------------------------
+
+Número na Pokédex: #75
+Nome: Graveler
+Tipagem: rock, ground
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction. 
+----------------------------------------
+
+Número na Pokédex: #76
+Nome: Golem
+Tipagem: rock, ground
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage. 
+----------------------------------------
+
+Número na Pokédex: #77
+Nome: Ponyta
+Tipagem: fire
+Fraquezas: ground, rock, water
+Descrição: Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time. 
+----------------------------------------
+
+

@@ -1,0 +1,24 @@
+--- doc029.txt ---
+
+Número na Pokédex: #109
+Nome: Koffing
+Tipagem: poison
+Fraquezas: ground, psychic
+Descrição: Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning. 
+----------------------------------------
+
+Número na Pokédex: #110
+Nome: Weezing
+Tipagem: poison
+Fraquezas: ground, psychic
+Descrição: Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years. 
+----------------------------------------
+
+Número na Pokédex: #111
+Nome: Rhyhorn
+Tipagem: ground, rock
+Fraquezas: water, grass, ice
+Descrição: Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying. 
+----------------------------------------
+
+

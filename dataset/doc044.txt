@@ -1,0 +1,31 @@
+--- doc044.txt ---
+
+Número na Pokédex: #166
+Nome: Ledian
+Tipagem: bug, flying
+Fraquezas: flying, rock, fire
+Descrição: When the stars flicker in the night sky, it flutters about, scattering a glowing powder. 
+----------------------------------------
+
+Número na Pokédex: #167
+Nome: Spinarak
+Tipagem: bug, poison
+Fraquezas: flying, rock, fire
+Descrição: It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close. 
+----------------------------------------
+
+Número na Pokédex: #168
+Nome: Ariados
+Tipagem: bug, poison
+Fraquezas: flying, rock, fire
+Descrição: It spins string not only from its rear but also from its mouth. It is hard to tell which end is which. 
+----------------------------------------
+
+Número na Pokédex: #169
+Nome: Crobat
+Tipagem: poison, flying
+Fraquezas: ground, psychic
+Descrição: It flies so si­ lently through the dark on its four wings that it may not be noticed even when nearby. 
+----------------------------------------
+
+

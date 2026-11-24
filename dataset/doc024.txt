@@ -1,0 +1,31 @@
+--- doc024.txt ---
+
+Número na Pokédex: #89
+Nome: Muk
+Tipagem: poison
+Fraquezas: ground, psychic
+Descrição: Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison. 
+----------------------------------------
+
+Número na Pokédex: #90
+Nome: Shellder
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: Its hard shell repels any kind of attack. It is vulnerable only when its shell is open. 
+----------------------------------------
+
+Número na Pokédex: #91
+Nome: Cloyster
+Tipagem: water, ice
+Fraquezas: grass, electric
+Descrição: When attacked, it launches its horns in quick volleys. Its innards have never been seen. 
+----------------------------------------
+
+Número na Pokédex: #92
+Nome: Gastly
+Tipagem: ghost, poison
+Fraquezas: ghost, dark
+Descrição: Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice. 
+----------------------------------------
+
+

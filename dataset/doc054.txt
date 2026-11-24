@@ -1,0 +1,31 @@
+--- doc054.txt ---
+
+Número na Pokédex: #205
+Nome: Forretress
+Tipagem: bug, steel
+Fraquezas: flying, rock, fire
+Descrição: Its entire body is shielded by a steel-hard shell. What lurks inside the armor is a total mystery. 
+----------------------------------------
+
+Número na Pokédex: #206
+Nome: Dunsparce
+Tipagem: normal
+Fraquezas: fighting
+Descrição: When spotted, this POKéMON escapes backward by furi­ ously boring into the ground with its tail. 
+----------------------------------------
+
+Número na Pokédex: #207
+Nome: Gligar
+Tipagem: ground, flying
+Fraquezas: water, grass, ice
+Descrição: It flies straight at its target's face then clamps down on the star­ tled victim to inject poison. 
+----------------------------------------
+
+Número na Pokédex: #208
+Nome: Steelix
+Tipagem: steel, ground
+Fraquezas: fighting, ground, fire
+Descrição: Its body has been compressed deep under the ground. As a result, it is even harder than a diamond. 
+----------------------------------------
+
+

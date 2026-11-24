@@ -1,0 +1,31 @@
+--- doc059.txt ---
+
+Número na Pokédex: #224
+Nome: Octillery
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: It traps enemies with its suction- cupped tentacles then smashes them with its rock-hard head. 
+----------------------------------------
+
+Número na Pokédex: #225
+Nome: Delibird
+Tipagem: ice, flying
+Fraquezas: fighting, rock, steel, fire
+Descrição: It carries food all day long. There are tales about lost people who were saved by the food it had. 
+----------------------------------------
+
+Número na Pokédex: #226
+Nome: Mantine
+Tipagem: water, flying
+Fraquezas: grass, electric
+Descrição: As it majestically swims, it doesn't care if REMORAID attach to it for scavenging its leftovers. 
+----------------------------------------
+
+Número na Pokédex: #227
+Nome: Skarmory
+Tipagem: steel, flying
+Fraquezas: fighting, ground, fire
+Descrição: Its sturdy wings look heavy, but they are actually hollow and light, allowing it to fly freely in the sky. 
+----------------------------------------
+
+

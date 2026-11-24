@@ -1,0 +1,31 @@
+--- doc091.txt ---
+
+Número na Pokédex: #348
+Nome: Armaldo
+Tipagem: rock, bug
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: ARMALDO’s tough armor makes all attacks bounce off. This POKéMON’s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab. 
+----------------------------------------
+
+Número na Pokédex: #349
+Nome: Feebas
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: FEEBAS’s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this POKéMON is largely ignored. It is capable of living in both the sea and in rivers. 
+----------------------------------------
+
+Número na Pokédex: #350
+Nome: Milotic
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: MILOTIC is said to be the most beautiful of all the POKéMON. It has the power to becalm such emotions as anger and hostility to quell bitter feuding. 
+----------------------------------------
+
+Número na Pokédex: #351
+Nome: Castform
+Tipagem: normal
+Fraquezas: fighting
+Descrição: CASTFORM’s appearance changes with the weather. This POKéMON gained the ability to use the vast power of nature to protect its tiny body. 
+----------------------------------------
+
+

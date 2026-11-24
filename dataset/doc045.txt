@@ -1,0 +1,31 @@
+--- doc045.txt ---
+
+Número na Pokédex: #170
+Nome: Chinchou
+Tipagem: water, electric
+Fraquezas: grass, electric
+Descrição: It shoots positive and negative elec­ tricity between the tips of its two antennae and zaps its enemies. 
+----------------------------------------
+
+Número na Pokédex: #171
+Nome: Lanturn
+Tipagem: water, electric
+Fraquezas: grass, electric
+Descrição: The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles. 
+----------------------------------------
+
+Número na Pokédex: #172
+Nome: Pichu
+Tipagem: electric
+Fraquezas: ground
+Descrição: It is not yet skilled at storing electricity. It may send out a jolt if amused or startled. 
+----------------------------------------
+
+Número na Pokédex: #173
+Nome: Cleffa
+Tipagem: fairy
+Fraquezas: poison, steel
+Descrição: Because of its unusual, star-like silhouette, people believe that it came here on a meteor. 
+----------------------------------------
+
+

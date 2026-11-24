@@ -1,0 +1,31 @@
+--- doc027.txt ---
+
+Número na Pokédex: #101
+Nome: Electrode
+Tipagem: electric
+Fraquezas: ground
+Descrição: It stores electric energy under very high pressure. It often explodes with little or no provocation. 
+----------------------------------------
+
+Número na Pokédex: #102
+Nome: Exeggcute
+Tipagem: grass, psychic
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms. 
+----------------------------------------
+
+Número na Pokédex: #103
+Nome: Exeggutor
+Tipagem: grass, psychic
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE. 
+----------------------------------------
+
+Número na Pokédex: #104
+Nome: Cubone
+Tipagem: ground
+Fraquezas: water, grass, ice
+Descrição: Because it never removes its skull helmet, no one has ever seen this POKéMON's real face. 
+----------------------------------------
+
+

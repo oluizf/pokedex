@@ -1,0 +1,31 @@
+--- doc026.txt ---
+
+Número na Pokédex: #97
+Nome: Hypno
+Tipagem: psychic
+Fraquezas: bug, ghost, dark
+Descrição: When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION. 
+----------------------------------------
+
+Número na Pokédex: #98
+Nome: Krabby
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: Its pincers are not only powerful weapons, they are used for balance when walking sideways. 
+----------------------------------------
+
+Número na Pokédex: #99
+Nome: Kingler
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use. 
+----------------------------------------
+
+Número na Pokédex: #100
+Nome: Voltorb
+Tipagem: electric
+Fraquezas: ground
+Descrição: Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people. 
+----------------------------------------
+
+

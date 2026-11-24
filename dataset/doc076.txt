@@ -1,0 +1,31 @@
+--- doc076.txt ---
+
+Número na Pokédex: #290
+Nome: Nincada
+Tipagem: bug, ground
+Fraquezas: flying, rock, fire
+Descrição: NINCADA lives underground for many years in complete darkness. This POKéMON absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution. 
+----------------------------------------
+
+Número na Pokédex: #291
+Nome: Ninjask
+Tipagem: bug, flying
+Fraquezas: flying, rock, fire
+Descrição: NINJASK moves around at such a high speed that it cannot be seen, even while its crying can be clearly heard. For that reason, this POKéMON was long believed to be invisible. 
+----------------------------------------
+
+Número na Pokédex: #292
+Nome: Shedinja
+Tipagem: bug, ghost
+Fraquezas: flying, rock, fire
+Descrição: SHEDINJA’s hard body doesn’t move - not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this POKéMON will steal the spirit of anyone peering into its hollow body from its back. 
+----------------------------------------
+
+Número na Pokédex: #293
+Nome: Whismur
+Tipagem: normal
+Fraquezas: fighting
+Descrição: Normally, WHISMUR’s voice is very quiet - it is barely audible even if one is paying close attention. However, if this POKéMON senses danger, it starts crying at an earsplitting volume. 
+----------------------------------------
+
+

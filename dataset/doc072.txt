@@ -1,0 +1,24 @@
+--- doc072.txt ---
+
+Número na Pokédex: #275
+Nome: Shiftry
+Tipagem: grass, dark
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: SHIFTRY is a mysterious POKéMON that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds. 
+----------------------------------------
+
+Número na Pokédex: #276
+Nome: Taillow
+Tipagem: normal, flying
+Fraquezas: fighting
+Descrição: TAILLOW courageously stands its ground against foes, however strong they may be. This gutsy POKéMON will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry. 
+----------------------------------------
+
+Número na Pokédex: #277
+Nome: Swellow
+Tipagem: normal, flying
+Fraquezas: fighting
+Descrição: SWELLOW flies high above our heads, making graceful arcs in the sky. This POKéMON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW’s clawed feet, preventing escape. 
+----------------------------------------
+
+

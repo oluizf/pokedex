@@ -1,0 +1,31 @@
+--- doc046.txt ---
+
+Número na Pokédex: #174
+Nome: Igglybuff
+Tipagem: normal, fairy
+Fraquezas: fighting
+Descrição: It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop. 
+----------------------------------------
+
+Número na Pokédex: #175
+Nome: Togepi
+Tipagem: fairy
+Fraquezas: poison, steel
+Descrição: The shell seems to be filled with joy. It is said that it will share good luck when treated kindly. 
+----------------------------------------
+
+Número na Pokédex: #176
+Nome: Togetic
+Tipagem: fairy, flying
+Fraquezas: poison, steel
+Descrição: They say that it will appear before kindhearted, car­ ing people and shower them with happiness. 
+----------------------------------------
+
+Número na Pokédex: #177
+Nome: Natu
+Tipagem: psychic, flying
+Fraquezas: bug, ghost, dark
+Descrição: Because its wings aren't yet fully grown, it has to hop to get around. It is always star­ ing at something. 
+----------------------------------------
+
+

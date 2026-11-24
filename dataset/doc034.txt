@@ -1,0 +1,31 @@
+--- doc034.txt ---
+
+Número na Pokédex: #128
+Nome: Tauros
+Tipagem: normal
+Fraquezas: fighting
+Descrição: When it targets an enemy, it charges furiously while whipping its body with its long tails. 
+----------------------------------------
+
+Número na Pokédex: #129
+Nome: Magikarp
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: In the distant past, it was somewhat stronger than the horribly weak descendants that exist today. 
+----------------------------------------
+
+Número na Pokédex: #130
+Nome: Gyarados
+Tipagem: water, flying
+Fraquezas: grass, electric
+Descrição: Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage. 
+----------------------------------------
+
+Número na Pokédex: #131
+Nome: Lapras
+Tipagem: water, ice
+Fraquezas: grass, electric
+Descrição: A POKéMON that has been over­ hunted almost to extinction. It can ferry people across the water. 
+----------------------------------------
+
+

@@ -1,0 +1,31 @@
+--- doc011.txt ---
+
+Número na Pokédex: #39
+Nome: Jigglypuff
+Tipagem: normal, fairy
+Fraquezas: fighting
+Descrição: When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep. 
+----------------------------------------
+
+Número na Pokédex: #40
+Nome: Wigglytuff
+Tipagem: normal, fairy
+Fraquezas: fighting
+Descrição: The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size. 
+----------------------------------------
+
+Número na Pokédex: #41
+Nome: Zubat
+Tipagem: poison, flying
+Fraquezas: ground, psychic
+Descrição: Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets. 
+----------------------------------------
+
+Número na Pokédex: #42
+Nome: Golbat
+Tipagem: poison, flying
+Fraquezas: ground, psychic
+Descrição: Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly. 
+----------------------------------------
+
+

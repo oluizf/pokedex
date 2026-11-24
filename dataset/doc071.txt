@@ -1,0 +1,31 @@
+--- doc071.txt ---
+
+Número na Pokédex: #271
+Nome: Lombre
+Tipagem: water, grass
+Fraquezas: grass, electric
+Descrição: LOMBRE is nocturnal - it will get active after dusk. It is also a mischief-maker. When this POKéMON spots anglers, it tugs on their fishing lines from beneath the surface and enjoys their consternation. 
+----------------------------------------
+
+Número na Pokédex: #272
+Nome: Ludicolo
+Tipagem: water, grass
+Fraquezas: grass, electric
+Descrição: LUDICOLO begins dancing as soon as it hears cheerful, festive music. This POKéMON is said to appear when it hears the singing of children on hiking outings. 
+----------------------------------------
+
+Número na Pokédex: #273
+Nome: Seedot
+Tipagem: grass
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: SEEDOT attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this POKéMON’s body becomes. 
+----------------------------------------
+
+Número na Pokédex: #274
+Nome: Nuzleaf
+Tipagem: grass, dark
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: NUZLEAF live in densely overgrown forests. They occasionally venture out of the forest to startle people. This POKéMON dislikes having its long nose pinched. 
+----------------------------------------
+
+

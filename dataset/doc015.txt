@@ -1,0 +1,24 @@
+--- doc015.txt ---
+
+Número na Pokédex: #55
+Nome: Golduck
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa. 
+----------------------------------------
+
+Número na Pokédex: #56
+Nome: Mankey
+Tipagem: fighting
+Fraquezas: flying, psychic, fairy
+Descrição: Extremely quick to anger. It could be docile one moment then thrashing away the next instant. 
+----------------------------------------
+
+Número na Pokédex: #57
+Nome: Primeape
+Tipagem: fighting
+Fraquezas: flying, psychic, fairy
+Descrição: Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught. 
+----------------------------------------
+
+

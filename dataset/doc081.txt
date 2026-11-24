@@ -1,0 +1,31 @@
+--- doc081.txt ---
+
+Número na Pokédex: #309
+Nome: Electrike
+Tipagem: electric
+Fraquezas: ground
+Descrição: ELECTRIKE stores electricity in its long body hair. This POKéMON stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance. 
+----------------------------------------
+
+Número na Pokédex: #310
+Nome: Manectric
+Tipagem: electric
+Fraquezas: ground
+Descrição: MANECTRIC is constantly discharging electricity from its mane. The sparks sometimes ignite forest fires. When it enters a battle, this POKéMON creates thunderclouds. 
+----------------------------------------
+
+Número na Pokédex: #311
+Nome: Plusle
+Tipagem: electric
+Fraquezas: ground
+Descrição: PLUSLE always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this POKéMON shorts out its body to create the crackling noises of sparks to show its joy. 
+----------------------------------------
+
+Número na Pokédex: #312
+Nome: Minun
+Tipagem: electric
+Fraquezas: ground
+Descrição: MINUN is more concerned about cheering on its partners than its own safety. It shorts out the electricity in its body to create brilliant showers of sparks to cheer on its teammates. 
+----------------------------------------
+
+

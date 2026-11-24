@@ -1,0 +1,31 @@
+--- doc069.txt ---
+
+Número na Pokédex: #263
+Nome: Zigzagoon
+Tipagem: normal
+Fraquezas: fighting
+Descrição: ZIGZAGOON restlessly wanders everywhere at all times. This POKéMON does so because it is very curious. It becomes interested in anything that it happens to see. 
+----------------------------------------
+
+Número na Pokédex: #264
+Nome: Linoone
+Tipagem: normal
+Fraquezas: fighting
+Descrição: LINOONE always runs full speed and only in straight lines. If facing an obstacle, it makes a right-angle turn to evade it. This POKéMON is very challenged by gently curving roads. 
+----------------------------------------
+
+Número na Pokédex: #265
+Nome: Wurmple
+Tipagem: bug
+Fraquezas: flying, rock, fire
+Descrição: Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POKéMON’s feet are tipped with suction pads that allow it to cling to glass without slipping. 
+----------------------------------------
+
+Número na Pokédex: #266
+Nome: Silcoon
+Tipagem: bug
+Fraquezas: flying, rock, fire
+Descrição: SILCOON tethers itself to a tree branch using silk to keep from falling. There, this POKéMON hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole. 
+----------------------------------------
+
+

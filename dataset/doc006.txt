@@ -1,0 +1,31 @@
+--- doc006.txt ---
+
+Número na Pokédex: #20
+Nome: Raticate
+Tipagem: normal
+Fraquezas: fighting
+Descrição: It uses its whis­ kers to maintain its balance. It apparently slows down if they are cut off. 
+----------------------------------------
+
+Número na Pokédex: #21
+Nome: Spearow
+Tipagem: normal, flying
+Fraquezas: fighting
+Descrição: Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne. 
+----------------------------------------
+
+Número na Pokédex: #22
+Nome: Fearow
+Tipagem: normal, flying
+Fraquezas: fighting
+Descrição: With its huge and magnificent wings, it can keep aloft without ever having to land for rest. 
+----------------------------------------
+
+Número na Pokédex: #23
+Nome: Ekans
+Tipagem: poison
+Fraquezas: ground, psychic
+Descrição: Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole. 
+----------------------------------------
+
+

@@ -1,0 +1,24 @@
+--- doc058.txt ---
+
+Número na Pokédex: #221
+Nome: Piloswine
+Tipagem: ice, ground
+Fraquezas: fighting, rock, steel, fire
+Descrição: Because the long hair all over its body obscures its sight, it just keeps charging repeatedly. 
+----------------------------------------
+
+Número na Pokédex: #222
+Nome: Corsola
+Tipagem: water, rock
+Fraquezas: grass, electric
+Descrição: It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty. 
+----------------------------------------
+
+Número na Pokédex: #223
+Nome: Remoraid
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: It has superb ac­ curacy. The water it shoots out can strike even moving prey from more than 300 feet. 
+----------------------------------------
+
+

@@ -1,0 +1,31 @@
+--- doc049.txt ---
+
+Número na Pokédex: #186
+Nome: Politoed
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gather­ ing from far and wide. 
+----------------------------------------
+
+Número na Pokédex: #187
+Nome: Hoppip
+Tipagem: grass, flying
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though. 
+----------------------------------------
+
+Número na Pokédex: #188
+Nome: Skiploom
+Tipagem: grass, flying
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: The bloom on top of its head opens and closes as the temperature fluc­ tuates up and down. 
+----------------------------------------
+
+Número na Pokédex: #189
+Nome: Jumpluff
+Tipagem: grass, flying
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: Once it catches the wind, it deft­ ly controls its cotton-puff spores to float, even around the world. 
+----------------------------------------
+
+

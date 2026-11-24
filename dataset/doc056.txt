@@ -1,0 +1,31 @@
+--- doc056.txt ---
+
+Número na Pokédex: #213
+Nome: Shuckle
+Tipagem: bug, rock
+Fraquezas: flying, rock, fire
+Descrição: The BERRIES it stores in its vase-like shell decompose and become a gooey liquid. 
+----------------------------------------
+
+Número na Pokédex: #214
+Nome: Heracross
+Tipagem: bug, fighting
+Fraquezas: flying, rock, fire
+Descrição: This powerful POKéMON thrusts its prized horn under its enemies’ bellies then lifts and throws them. 
+----------------------------------------
+
+Número na Pokédex: #215
+Nome: Sneasel
+Tipagem: dark, ice
+Fraquezas: fighting, bug, fairy
+Descrição: Its paws conceal sharp claws. If attacked, it sud­ denly extends the claws and startles its enemy. 
+----------------------------------------
+
+Número na Pokédex: #216
+Nome: Teddiursa
+Tipagem: normal
+Fraquezas: fighting
+Descrição: If it finds honey, its crescent mark glows. It always licks its paws because they are soaked with honey. 
+----------------------------------------
+
+

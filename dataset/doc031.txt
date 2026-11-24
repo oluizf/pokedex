@@ -1,0 +1,31 @@
+--- doc031.txt ---
+
+Número na Pokédex: #116
+Nome: Horsea
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: Known to shoot down flying bugs with precision blasts of ink from the surface of the water. 
+----------------------------------------
+
+Número na Pokédex: #117
+Nome: Seadra
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: Capable of swim­ ming backwards by rapidly flapping its wing-like pectoral fins and stout tail. 
+----------------------------------------
+
+Número na Pokédex: #118
+Nome: Goldeen
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen. 
+----------------------------------------
+
+Número na Pokédex: #119
+Nome: Seaking
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: In the autumn spawning season, they can be seen swimming power­ fully up rivers and creeks. 
+----------------------------------------
+
+

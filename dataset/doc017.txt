@@ -1,0 +1,31 @@
+--- doc017.txt ---
+
+Número na Pokédex: #62
+Nome: Poliwrath
+Tipagem: water, fighting
+Fraquezas: grass, electric
+Descrição: An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers. 
+----------------------------------------
+
+Número na Pokédex: #63
+Nome: Abra
+Tipagem: psychic
+Fraquezas: bug, ghost, dark
+Descrição: Using its ability to read minds, it will identify impending danger and TELEPORT to safety. 
+----------------------------------------
+
+Número na Pokédex: #64
+Nome: Kadabra
+Tipagem: psychic
+Fraquezas: bug, ghost, dark
+Descrição: It emits special alpha waves from its body that induce headaches just by being close by. 
+----------------------------------------
+
+Número na Pokédex: #65
+Nome: Alakazam
+Tipagem: psychic
+Fraquezas: bug, ghost, dark
+Descrição: Its brain can out­ perform a super­ computer. Its intelligence quotient is said to be 5,000. 
+----------------------------------------
+
+

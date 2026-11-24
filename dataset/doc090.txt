@@ -1,0 +1,31 @@
+--- doc090.txt ---
+
+Número na Pokédex: #344
+Nome: Claydol
+Tipagem: ground, psychic
+Fraquezas: water, grass, ice
+Descrição: CLAYDOL are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray. This POKéMON moves about while levitating. 
+----------------------------------------
+
+Número na Pokédex: #345
+Nome: Lileep
+Tipagem: rock, grass
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: LILEEP became extinct approximately a hundred million years ago. This ancient POKéMON attaches itself to a rock on the seafloor and catches approaching prey using tentacles shaped like flower petals. 
+----------------------------------------
+
+Número na Pokédex: #346
+Nome: Cradily
+Tipagem: rock, grass
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: CRADILY roams around the ocean floor in search of food. This POKéMON freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles. 
+----------------------------------------
+
+Número na Pokédex: #347
+Nome: Anorith
+Tipagem: rock, bug
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: ANORITH was regenerated from a prehistoric fossil. This primitive POKéMON once lived in warm seas. It grips its prey firmly between its two large claws. 
+----------------------------------------
+
+

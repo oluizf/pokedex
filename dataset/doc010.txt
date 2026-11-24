@@ -1,0 +1,31 @@
+--- doc010.txt ---
+
+Número na Pokédex: #35
+Nome: Clefairy
+Tipagem: fairy
+Fraquezas: poison, steel
+Descrição: Its magical and cute appeal has many admirers. It is rare and found only in certain areas. 
+----------------------------------------
+
+Número na Pokédex: #36
+Nome: Clefable
+Tipagem: fairy
+Fraquezas: poison, steel
+Descrição: A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people. 
+----------------------------------------
+
+Número na Pokédex: #37
+Nome: Vulpix
+Tipagem: fire
+Fraquezas: ground, rock, water
+Descrição: At the time of birth, it has just one tail. The tail splits from its tip as it grows older. 
+----------------------------------------
+
+Número na Pokédex: #38
+Nome: Ninetales
+Tipagem: fire
+Fraquezas: ground, rock, water
+Descrição: Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse. 
+----------------------------------------
+
+

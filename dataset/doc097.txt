@@ -1,0 +1,31 @@
+--- doc097.txt ---
+
+Número na Pokédex: #371
+Nome: Bagon
+Tipagem: dragon
+Fraquezas: ice, dragon, fairy
+Descrição: BAGON has a dream of one day soaring in the sky. In doomed efforts to fly, this POKéMON hurls itself off cliffs. As a result of its dives, its head has grown tough and as hard as tempered steel. 
+----------------------------------------
+
+Número na Pokédex: #372
+Nome: Shelgon
+Tipagem: dragon
+Fraquezas: ice, dragon, fairy
+Descrição: Inside SHELGON’s armor-like shell, cells are in the midst of transformation to create an entirely new body. This POKéMON’s shell is extremely heavy, making its movements sluggish. 
+----------------------------------------
+
+Número na Pokédex: #373
+Nome: Salamence
+Tipagem: dragon, flying
+Fraquezas: ice, dragon, fairy
+Descrição: SALAMENCE came about as a result of a strong, long-held dream of growing wings. It is said that this powerful desire triggered a sudden mutation in this POKéMON’s cells, causing it to sprout its magnificent wings. 
+----------------------------------------
+
+Número na Pokédex: #374
+Nome: Beldum
+Tipagem: steel, psychic
+Fraquezas: fighting, ground, fire
+Descrição: Instead of blood, a powerful magnetic force courses throughout BELDUM’s body. This POKéMON communicates with others by sending controlled pulses of magnetism. 
+----------------------------------------
+
+

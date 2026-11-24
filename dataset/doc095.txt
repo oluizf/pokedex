@@ -1,0 +1,31 @@
+--- doc095.txt ---
+
+Número na Pokédex: #363
+Nome: Spheal
+Tipagem: ice, water
+Fraquezas: fighting, rock, steel, fire
+Descrição: SPHEAL is much faster rolling than walking to get around. When groups of this POKéMON eat, they all clap at once to show their pleasure. Because of this, their mealtimes are noisy. 
+----------------------------------------
+
+Número na Pokédex: #364
+Nome: Sealeo
+Tipagem: ice, water
+Fraquezas: fighting, rock, steel, fire
+Descrição: SEALEO has the habit of always juggling on the tip of its nose anything it sees for the first time. This POKéMON occasionally entertains itself by balancing and rolling a SPHEAL on its nose. 
+----------------------------------------
+
+Número na Pokédex: #365
+Nome: Walrein
+Tipagem: ice, water
+Fraquezas: fighting, rock, steel, fire
+Descrição: WALREIN’s two massively developed tusks can totally shatter blocks of ice weighing ten tons with one blow. This POKéMON’s thick coat of blubber insulates it from subzero temperatures. 
+----------------------------------------
+
+Número na Pokédex: #366
+Nome: Clamperl
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: CLAMPERL’s sturdy shell is not only good for protection - it is also used for clamping and catching prey. A fully grown CLAMPERL’s shell will be scored with nicks and scratches all over. 
+----------------------------------------
+
+

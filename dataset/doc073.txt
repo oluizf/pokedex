@@ -1,0 +1,31 @@
+--- doc073.txt ---
+
+Número na Pokédex: #278
+Nome: Wingull
+Tipagem: water, flying
+Fraquezas: grass, electric
+Descrição: WINGULL has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This POKéMON rides the winds and flies as if it were skating across the sky. 
+----------------------------------------
+
+Número na Pokédex: #279
+Nome: Pelipper
+Tipagem: water, flying
+Fraquezas: grass, electric
+Descrição: PELIPPER is a flying transporter that carries small POKéMON and eggs inside its massive bill. This POKéMON builds its nest on steep cliffs facing the sea. 
+----------------------------------------
+
+Número na Pokédex: #280
+Nome: Ralts
+Tipagem: psychic, fairy
+Fraquezas: bug, ghost, dark
+Descrição: RALTS senses the emotions of people using the horns on its head. This POKéMON rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition. 
+----------------------------------------
+
+Número na Pokédex: #281
+Nome: Kirlia
+Tipagem: psychic, fairy
+Fraquezas: bug, ghost, dark
+Descrição: It is said that a KIRLIA that is exposed to the positive emotions of its TRAINER grows beautiful. This POKéMON controls psychokinetic powers with its highly developed brain. 
+----------------------------------------
+
+

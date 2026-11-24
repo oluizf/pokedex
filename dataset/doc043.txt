@@ -1,0 +1,24 @@
+--- doc043.txt ---
+
+Número na Pokédex: #163
+Nome: Hoothoot
+Tipagem: normal, flying
+Fraquezas: fighting
+Descrição: It always stands on one foot. It changes feet so fast, the movement can rarely be seen. 
+----------------------------------------
+
+Número na Pokédex: #164
+Nome: Noctowl
+Tipagem: normal, flying
+Fraquezas: fighting
+Descrição: Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark. 
+----------------------------------------
+
+Número na Pokédex: #165
+Nome: Ledyba
+Tipagem: bug, flying
+Fraquezas: flying, rock, fire
+Descrição: It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group. 
+----------------------------------------
+
+

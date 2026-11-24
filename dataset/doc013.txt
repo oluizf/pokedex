@@ -1,0 +1,31 @@
+--- doc013.txt ---
+
+Número na Pokédex: #47
+Nome: Parasect
+Tipagem: bug, grass
+Fraquezas: flying, rock, fire
+Descrição: A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places. 
+----------------------------------------
+
+Número na Pokédex: #48
+Nome: Venonat
+Tipagem: bug, poison
+Fraquezas: flying, rock, fire
+Descrição: Lives in the shadows of tall trees where it eats insects. It is attracted by light at night. 
+----------------------------------------
+
+Número na Pokédex: #49
+Nome: Venomoth
+Tipagem: bug, poison
+Fraquezas: flying, rock, fire
+Descrição: The dust-like scales covering its wings are color coded to indicate the kinds of poison it has. 
+----------------------------------------
+
+Número na Pokédex: #50
+Nome: Diglett
+Tipagem: ground
+Fraquezas: water, grass, ice
+Descrição: Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground. 
+----------------------------------------
+
+

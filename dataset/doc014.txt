@@ -1,0 +1,31 @@
+--- doc014.txt ---
+
+Número na Pokédex: #51
+Nome: Dugtrio
+Tipagem: ground
+Fraquezas: water, grass, ice
+Descrição: A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground. 
+----------------------------------------
+
+Número na Pokédex: #52
+Nome: Meowth
+Tipagem: normal
+Fraquezas: fighting
+Descrição: Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change. 
+----------------------------------------
+
+Número na Pokédex: #53
+Nome: Persian
+Tipagem: normal
+Fraquezas: fighting
+Descrição: Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness. 
+----------------------------------------
+
+Número na Pokédex: #54
+Nome: Psyduck
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers. 
+----------------------------------------
+
+

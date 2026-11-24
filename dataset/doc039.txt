@@ -1,0 +1,31 @@
+--- doc039.txt ---
+
+Número na Pokédex: #147
+Nome: Dratini
+Tipagem: dragon
+Fraquezas: ice, dragon, fairy
+Descrição: Long considered a mythical POKéMON until recently when a small colony was found living underwater. 
+----------------------------------------
+
+Número na Pokédex: #148
+Nome: Dragonair
+Tipagem: dragon
+Fraquezas: ice, dragon, fairy
+Descrição: A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions. 
+----------------------------------------
+
+Número na Pokédex: #149
+Nome: Dragonite
+Tipagem: dragon, flying
+Fraquezas: ice, dragon, fairy
+Descrição: An extremely rarely seen marine POKéMON. Its intelligence is said to match that of humans. 
+----------------------------------------
+
+Número na Pokédex: #150
+Nome: Mewtwo
+Tipagem: psychic
+Fraquezas: bug, ghost, dark
+Descrição: It was created by a scientist after years of horrific gene splicing and DNA engineering experiments. 
+----------------------------------------
+
+

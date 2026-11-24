@@ -1,0 +1,31 @@
+--- doc088.txt ---
+
+Número na Pokédex: #336
+Nome: Seviper
+Tipagem: poison
+Fraquezas: ground, psychic
+Descrição: SEVIPER shares a generations-long feud with ZANGOOSE. The scars on its body are evidence of vicious battles. This POKéMON attacks using its sword- edged tail. 
+----------------------------------------
+
+Número na Pokédex: #337
+Nome: Lunatone
+Tipagem: rock, psychic
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: LUNATONE was discovered at a location where a meteorite fell. As a result, some people theorize that this POKéMON came from space. However, no one has been able to prove this theory so far. 
+----------------------------------------
+
+Número na Pokédex: #338
+Nome: Solrock
+Tipagem: rock, psychic
+Fraquezas: fighting, ground, steel, water, grass
+Descrição: SOLROCK is a new species of POKéMON that is said to have fallen from space. It floats in air and moves silently. In battle, this POKéMON releases intensely bright light. 
+----------------------------------------
+
+Número na Pokédex: #339
+Nome: Barboach
+Tipagem: water, ground
+Fraquezas: grass, electric
+Descrição: BARBOACH’s sensitive whiskers serve as a superb radar system. This POKéMON hides in mud, leaving only its two whiskers exposed while it waits for prey to come along. 
+----------------------------------------
+
+

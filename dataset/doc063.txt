@@ -1,0 +1,31 @@
+--- doc063.txt ---
+
+Número na Pokédex: #240
+Nome: Magby
+Tipagem: fire
+Fraquezas: ground, rock, water
+Descrição: Each and every time it inhales and exhales, hot embers dribble out of its mouth and nostrils. 
+----------------------------------------
+
+Número na Pokédex: #241
+Nome: Miltank
+Tipagem: normal
+Fraquezas: fighting
+Descrição: Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary. 
+----------------------------------------
+
+Número na Pokédex: #242
+Nome: Blissey
+Tipagem: normal
+Fraquezas: fighting
+Descrição: Anyone who takes even one bite of BLISSEY's egg be­ comes unfailingly caring and pleas­ ant to everyone. 
+----------------------------------------
+
+Número na Pokédex: #243
+Nome: Raikou
+Tipagem: electric
+Fraquezas: ground
+Descrição: The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning. 
+----------------------------------------
+
+

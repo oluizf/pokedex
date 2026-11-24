@@ -1,0 +1,31 @@
+--- doc068.txt ---
+
+Número na Pokédex: #259
+Nome: Marshtomp
+Tipagem: water, ground
+Fraquezas: grass, electric
+Descrição: The surface of MARSHTOMP’s body is enveloped by a thin, sticky film that enables it to live on land. This POKéMON plays in mud on beaches when the ocean tide is low. 
+----------------------------------------
+
+Número na Pokédex: #260
+Nome: Swampert
+Tipagem: water, ground
+Fraquezas: grass, electric
+Descrição: SWAMPERT is very strong. It has enough power to easily drag a boulder weighing more than a ton. This POKéMON also has powerful vision that lets it see even in murky water. 
+----------------------------------------
+
+Número na Pokédex: #261
+Nome: Poochyena
+Tipagem: dark
+Fraquezas: fighting, bug, fairy
+Descrição: At first sight, POOCHYENA takes a bite at anything that moves. This POKéMON chases after prey until the victim becomes exhausted. However, it may turn tail if the prey strikes back. 
+----------------------------------------
+
+Número na Pokédex: #262
+Nome: Mightyena
+Tipagem: dark
+Fraquezas: fighting, bug, fairy
+Descrição: MIGHTYENA gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This POKéMON will bite savagely with its sharply pointed fangs. 
+----------------------------------------
+
+

@@ -1,0 +1,31 @@
+--- doc023.txt ---
+
+Número na Pokédex: #85
+Nome: Dodrio
+Tipagem: normal, flying
+Fraquezas: fighting
+Descrição: Uses its three brains to execute complex plans. While two heads sleep, one head stays awake. 
+----------------------------------------
+
+Número na Pokédex: #86
+Nome: Seel
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: The protruding horn on its head is very hard. It is used for bashing through thick ice. 
+----------------------------------------
+
+Número na Pokédex: #87
+Nome: Dewgong
+Tipagem: water, ice
+Fraquezas: grass, electric
+Descrição: Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters. 
+----------------------------------------
+
+Número na Pokédex: #88
+Nome: Grimer
+Tipagem: poison
+Fraquezas: ground, psychic
+Descrição: Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories. 
+----------------------------------------
+
+

@@ -1,0 +1,31 @@
+--- doc062.txt ---
+
+Número na Pokédex: #236
+Nome: Tyrogue
+Tipagem: fighting
+Fraquezas: flying, psychic, fairy
+Descrição: It is always bursting with en­ ergy. To make it­ self stronger, it keeps on fighting even if it loses. 
+----------------------------------------
+
+Número na Pokédex: #237
+Nome: Hitmontop
+Tipagem: fighting
+Fraquezas: flying, psychic, fairy
+Descrição: If you become enchanted by its smooth, elegant, dance-like kicks, you may get drilled hard. 
+----------------------------------------
+
+Número na Pokédex: #238
+Nome: Smoochum
+Tipagem: ice, psychic
+Fraquezas: fighting, rock, steel, fire
+Descrição: Its lips are the most sensitive parts on its body. It always uses its lips first to examine things. 
+----------------------------------------
+
+Número na Pokédex: #239
+Nome: Elekid
+Tipagem: electric
+Fraquezas: ground
+Descrição: It rotates its arms to generate electricity, but it tires easily, so it charges up only a little bit. 
+----------------------------------------
+
+

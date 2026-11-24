@@ -1,0 +1,31 @@
+--- doc035.txt ---
+
+Número na Pokédex: #132
+Nome: Ditto
+Tipagem: normal
+Fraquezas: fighting
+Descrição: Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy. 
+----------------------------------------
+
+Número na Pokédex: #133
+Nome: Eevee
+Tipagem: normal
+Fraquezas: fighting
+Descrição: Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs. 
+----------------------------------------
+
+Número na Pokédex: #134
+Nome: Vaporeon
+Tipagem: water
+Fraquezas: grass, electric
+Descrição: Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's. 
+----------------------------------------
+
+Número na Pokédex: #135
+Nome: Jolteon
+Tipagem: electric
+Fraquezas: ground
+Descrição: It accumulates negative ions in the atmosphere to blast out 10000- volt lightning bolts. 
+----------------------------------------
+
+

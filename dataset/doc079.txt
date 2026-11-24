@@ -1,0 +1,24 @@
+--- doc079.txt ---
+
+Número na Pokédex: #302
+Nome: Sableye
+Tipagem: dark, ghost
+Fraquezas: fighting, bug, fairy
+Descrição: SABLEYE lead quiet lives deep inside caverns. They are feared, however, because these POKéMON are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness. 
+----------------------------------------
+
+Número na Pokédex: #303
+Nome: Mawile
+Tipagem: steel, fairy
+Fraquezas: fighting, ground, fire
+Descrição: MAWHILE’s huge jaws are actually steel horns that have been transformed. Its docile-looking face serves to lull its foe into letting down its guard. When the foe least expects it, MAWHILE chomps it with its gaping jaws. 
+----------------------------------------
+
+Número na Pokédex: #304
+Nome: Aron
+Tipagem: steel, rock
+Fraquezas: fighting, ground, fire
+Descrição: This POKéMON has a body of steel. To make its body, ARON feeds on iron ore that it digs from mountains. Occasionally, it causes major trouble by eating bridges and rails. 
+----------------------------------------
+
+

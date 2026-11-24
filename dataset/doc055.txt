@@ -1,0 +1,31 @@
+--- doc055.txt ---
+
+Número na Pokédex: #209
+Nome: Snubbull
+Tipagem: fairy
+Fraquezas: poison, steel
+Descrição: Although it looks frightening, it is actually kind and affectionate. It is very popular among women. 
+----------------------------------------
+
+Número na Pokédex: #210
+Nome: Granbull
+Tipagem: fairy
+Fraquezas: poison, steel
+Descrição: It is actually timid and easily spooked. If at­ tacked, it flails about to fend off its attacker. 
+----------------------------------------
+
+Número na Pokédex: #211
+Nome: Qwilfish
+Tipagem: water, poison
+Fraquezas: grass, electric
+Descrição: To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once. 
+----------------------------------------
+
+Número na Pokédex: #212
+Nome: Scizor
+Tipagem: bug, steel
+Fraquezas: flying, rock, fire
+Descrição: It swings its eye- patterned pincers up to scare its foes. This makes it look like it has three heads. 
+----------------------------------------
+
+

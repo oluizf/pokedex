@@ -1,0 +1,31 @@
+--- doc038.txt ---
+
+Número na Pokédex: #143
+Nome: Snorlax
+Tipagem: normal
+Fraquezas: fighting
+Descrição: Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful. 
+----------------------------------------
+
+Número na Pokédex: #144
+Nome: Articuno
+Tipagem: ice, flying
+Fraquezas: fighting, rock, steel, fire
+Descrição: A legendary bird POKéMON that is said to appear to doomed people who are lost in icy mountains. 
+----------------------------------------
+
+Número na Pokédex: #145
+Nome: Zapdos
+Tipagem: electric, flying
+Fraquezas: ground
+Descrição: A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts. 
+----------------------------------------
+
+Número na Pokédex: #146
+Nome: Moltres
+Tipagem: fire, flying
+Fraquezas: ground, rock, water
+Descrição: Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames. 
+----------------------------------------
+
+

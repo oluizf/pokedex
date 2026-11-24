@@ -1,0 +1,31 @@
+--- doc085.txt ---
+
+Número na Pokédex: #325
+Nome: Spoink
+Tipagem: psychic
+Fraquezas: bug, ghost, dark
+Descrição: SPOINK bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this POKéMON cannot afford to stop bouncing - if it stops, its heart will stop. 
+----------------------------------------
+
+Número na Pokédex: #326
+Nome: Grumpig
+Tipagem: psychic
+Fraquezas: bug, ghost, dark
+Descrição: GRUMPIG uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this POKéMON uses its special power, its snorting breath grows labored. 
+----------------------------------------
+
+Número na Pokédex: #327
+Nome: Spinda
+Tipagem: normal
+Fraquezas: fighting
+Descrição: All the SPINDA that exist in the world are said to have utterly unique spot patterns. The shaky, tottering steps of this POKéMON give it the appearance of dancing. 
+----------------------------------------
+
+Número na Pokédex: #328
+Nome: Trapinch
+Tipagem: ground
+Fraquezas: water, grass, ice
+Descrição: TRAPINCH’s nest is a sloped, bowl-like pit dug in sand. This POKéMON patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders. 
+----------------------------------------
+
+

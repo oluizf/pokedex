@@ -1,0 +1,31 @@
+--- doc019.txt ---
+
+Número na Pokédex: #70
+Nome: Weepinbell
+Tipagem: grass, poison
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID. 
+----------------------------------------
+
+Número na Pokédex: #71
+Nome: Victreebel
+Tipagem: grass, poison
+Fraquezas: flying, poison, bug, fire, ice
+Descrição: Said to live in huge colonies deep in jungles, although no one has ever returned from there. 
+----------------------------------------
+
+Número na Pokédex: #72
+Nome: Tentacool
+Tipagem: water, poison
+Fraquezas: grass, electric
+Descrição: Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid. 
+----------------------------------------
+
+Número na Pokédex: #73
+Nome: Tentacruel
+Tipagem: water, poison
+Fraquezas: grass, electric
+Descrição: The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey. 
+----------------------------------------
+
+
